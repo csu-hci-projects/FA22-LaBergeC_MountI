@@ -12,7 +12,8 @@ Locations
     -Temperature: Maintain temperature or humidity level here.
     -Medical: Deliver or retrieve supplies from here
   -Floor 3:
-    -Command console: Get instructions/carry out tasks here
+    -Command console: Get instructions/carry out tasks here. There will be an interface with every possible task to complete, the user can select one given task then be walked through the steps
+    via commands on screen or listed instructions.
     -Science lab: Complete tasks here
     -Hygene: Deliver supplies to this location
     -Excercise: Git Swol here
