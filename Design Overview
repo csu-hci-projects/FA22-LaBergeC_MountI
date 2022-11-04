@@ -29,3 +29,15 @@ Example Task:
       7. Confirm Task Completiong (Command Console)
       
  Other tasks could include adjusting life supports, analyzing plant samples, maintaining the greenhouse, or manipulating other needed supplies.
+ 
+ ASSETS TO DESIGN:
+ Command Console: Computer looking object with the ability to select/read from the screen
+ Science Lab: Table with computers/fancy looking equipment. Have 3 different possible "Samples"--small moveable objects
+ Hygene: Maybe just have a closed off room
+ Excercise: Have a peleton or something
+ Medical: just like a bench or something
+ All three life supports: can be variations of the same control panel. Should be able to have an interfact the user can manipulate in two different ways (increase/decrease various factors)
+ Robot work stations: Another console, with interacting levers/buttons
+ Greenhouse: Row of plants on a table, with plant assets that may be removed.
+ Storage: just a few walls/shelves, should be able to select from as you store/move stuff
+ airlock: Circle in wall where assets will spawn.
