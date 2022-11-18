@@ -1,7 +1,7 @@
 # LaBergeC_MountI
 
 # Project Proposal
-	Chris LaBerge & Isaac Mount
+	Chris LaBerge & Isaac Mount & Jackson Morris
 
 # Overview
 With an opportunity to intern at Sierra Space next summer, our goal is to both meet the intent of the assignment, and build a project that can be displayed in a portfolio to showcase skills Sierra Space are looking for. We want to show conceptual design, the ability to conduct concept reviews, and manufacturing. Additionally, we want to use VR for storytelling, both in marketing and the business world, and also with concept design of new space habitat, and vehicles. We are envisioning  three floors or modules including lab space, kitchen, garden, and sleeping quarters. This is similar to an actual life habitat for Sierra, which is a 27-foot diameter capsule.
