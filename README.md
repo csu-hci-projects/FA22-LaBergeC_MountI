@@ -1,4 +1,4 @@
-# LaBergeC_MountI
+# LaBergeC_MountI_MorrisJ
 
 # Project Proposal
 	Chris LaBerge & Isaac Mount & Jackson Morris
