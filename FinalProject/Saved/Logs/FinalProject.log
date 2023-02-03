@@ -1439,3 +1439,14 @@ Recommended: 516.25
 [2023.02.03-20.04.42:572][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
 [2023.02.03-20.04.42:627][  2]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2023.02.03-20.04.42:890][  2]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.RecastNavMesh-Default).
+[2023.02.03-20.06.34:136][976]LogDerivedDataCache: C:/Users/claberge/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.191 and deleted 0 files with total size 0 MiB. Scanned 2405 files in 2391 folders with total size 97 MiB.
+[2023.02.03-20.06.42:009][  3]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.03-20.06.45:219][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.03-20.06.45:275][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.02.03-20.06.45:286][379]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.02.03-20.06.45:287][379]LogSavePackage: Moving '../../../../../../Users/claberge/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/VRTemplateMapF3E2FAEE443A01E20845968799A08673.tmp' to '../../../../../../Users/claberge/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.02.03-20.06.45:294][379]LogFileHelpers: No new changes to save!
+[2023.02.03-20.06.45:294][379]LogFileHelpers: Saving map 'VRTemplateMap' took 0.026
+[2023.02.03-20.06.45:309][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 416 ms)
+[2023.02.03-20.06.45:312][379]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.02.03-20.06.45:312][379]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
