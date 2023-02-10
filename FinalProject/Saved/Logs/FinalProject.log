@@ -1580,3 +1580,17 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.10-20.48.48:991][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
 [2023.02.10-20.48.53:389][556]BlueprintLog: New page: Compile VRPawn
 [2023.02.10-20.48.53:489][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.02.10-20.49.47:145][535]BlueprintLog: New page: Compile VRPawn
+[2023.02.10-20.49.47:246][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.02.10-20.50.24:997][692]LogSlate: Window 'HUD' being destroyed
+[2023.02.10-20.50.25:003][692]LogSlate: Window 'HUD' being destroyed
+[2023.02.10-20.50.25:008][692]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-20.50.25:008][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-20.50.25:099][692]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-20.50.25:099][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-20.50.25:106][692]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-20.50.25:106][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-20.50.36:547][  5]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2023.02.10-20.50.36:548][  5]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.10-20.50.58:141][ 57]BlueprintLog: New page: Compile VRPawn
+[2023.02.10-20.50.58:255][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
