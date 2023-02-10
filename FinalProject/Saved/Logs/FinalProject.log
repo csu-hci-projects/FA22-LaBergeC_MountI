@@ -1750,3 +1750,5 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.10-21.11.07:828][919]LogShaderCompilers: Display: ================================================
 [2023.02.10-21.13.05:188][347]BlueprintLog: New page: Compile Grabbable_SmallCube
 [2023.02.10-21.13.05:248][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.02.10-21.13.55:446][178]BlueprintLog: New page: Compile VRPawn
+[2023.02.10-21.13.55:561][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
