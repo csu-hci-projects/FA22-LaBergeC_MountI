@@ -1520,3 +1520,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.10-20.36.35:939][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
 [2023.02.10-20.37.40:022][583]BlueprintLog: New page: Compile HUD
 [2023.02.10-20.37.40:073][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.02.10-20.38.36:776][292]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.10-20.38.36:776][292]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.10-20.38.41:626][666]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.10-20.39.33:540][972]BlueprintLog: New page: Compile HUD
+[2023.02.10-20.39.33:596][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
