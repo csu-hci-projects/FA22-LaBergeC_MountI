@@ -1753,3 +1753,39 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.10-21.13.55:446][178]BlueprintLog: New page: Compile VRPawn
 [2023.02.10-21.13.55:561][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
 [2023.02.10-21.15.38:883][ 65]LogDerivedDataCache: C:/Users/ivmount/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.058 and deleted 0 files with total size 0 MiB. Scanned 2106 files in 2088 folders with total size 56 MiB.
+[2023.02.10-21.17.22:994][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.10-21.17.23:073][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.02.10-21.17.23:086][396]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.02.10-21.17.23:087][396]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/VRTemplateMap17ABAF9E40552BF4CE6DDCA65E85F38E.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.02.10-21.17.23:097][396]LogFileHelpers: No new changes to save!
+[2023.02.10-21.17.23:097][396]LogFileHelpers: Saving map 'VRTemplateMap' took 0.063
+[2023.02.10-21.17.23:106][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 487 ms)
+[2023.02.10-21.17.23:113][396]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.02.10-21.17.23:113][396]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.02.10-21.17.23:955][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.10-21.17.24:021][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.02.10-21.17.24:034][454]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.02.10-21.17.24:034][454]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/VRTemplateMap5807628C4B5DF056B0442A9FF1B0BBD4.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.02.10-21.17.24:042][454]LogFileHelpers: No new changes to save!
+[2023.02.10-21.17.24:042][454]LogFileHelpers: Saving map 'VRTemplateMap' took 0.062
+[2023.02.10-21.17.24:050][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 582 ms)
+[2023.02.10-21.17.24:055][454]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.02.10-21.17.24:055][454]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.02.10-21.21.29:383][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.10-21.21.29:449][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.02.10-21.21.29:463][ 82]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.02.10-21.21.29:464][ 82]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/VRTemplateMapA6B79BEE4115C09E137C9E98D90F308C.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.02.10-21.21.29:472][ 82]LogFileHelpers: No new changes to save!
+[2023.02.10-21.21.29:472][ 82]LogFileHelpers: Saving map 'VRTemplateMap' took 0.060
+[2023.02.10-21.21.29:482][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 682 ms)
+[2023.02.10-21.21.29:488][ 82]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.02.10-21.21.29:488][ 82]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.02.10-21.21.29:922][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.10-21.21.29:985][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.02.10-21.21.29:996][106]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.02.10-21.21.29:997][106]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/VRTemplateMap302252764F48D0B415AA2E991B309769.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.02.10-21.21.30:005][106]LogFileHelpers: No new changes to save!
+[2023.02.10-21.21.30:005][106]LogFileHelpers: Saving map 'VRTemplateMap' took 0.056
+[2023.02.10-21.21.30:013][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 772 ms)
+[2023.02.10-21.21.30:019][106]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.02.10-21.21.30:019][106]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
