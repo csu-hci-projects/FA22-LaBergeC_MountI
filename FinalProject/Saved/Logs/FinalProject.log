@@ -1533,3 +1533,50 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.10-20.42.47:546][798]LogSlate: Window 'Color Picker' being destroyed
 [2023.02.10-20.42.55:268][460]BlueprintLog: New page: Compile HUD
 [2023.02.10-20.42.55:321][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display: ================================================
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display: Total job queries 57, among them cache hits 0 (0.00%)
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display: Tracking 57 distinct input hashes that result in 40 distinct outputs (70.18%)
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display: RAM used: 0.62 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100.00%)
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display: Job execution time: average 1.62 s, max 2.53 s
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display: Job life time (pending + execution): average 1.65 s, max 2.55
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.55 s
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display: Average processing rate: 0.78 jobs/sec
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display: Total thread time: 2.80 s
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display: Total thread preprocess time: 0.06 s
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display: Percentage time preprocessing: 2.17%
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display: Effective parallelization: 1.10 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 2.32 sec, max 2.32 sec, min 2.32 sec)
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.48 sec, max 0.48 sec, min 0.48 sec)
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 82.72% of total time (compiled    1 times, average 2.32 sec, max 2.32 sec, min 2.32 sec)
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.28% of total time (compiled    1 times, average 0.48 sec, max 0.48 sec, min 0.48 sec)
+[2023.02.10-20.44.22:940][941]LogShaderCompilers: Display: ================================================
+[2023.02.10-20.45.57:437][ 60]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.10-20.45.57:437][ 60]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.10-20.45.57:437][ 60]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.10-20.46.31:563][475]BlueprintLog: New page: Compile VRPawn
+[2023.02.10-20.46.31:597][475]LogBlueprint: Error: [AssetLog] C:\Users\ivmount\Documents\GitHub\LaBergeC_MountI\FinalProject\Content\VRTemplate\Blueprints\VRPawn.uasset: [Compiler] Event BeginPlay  Signature Error: The selected function/event is not bindable - is the function/event deprecated, pure or latent?
+[2023.02.10-20.46.31:658][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.02.10-20.46.46:863][981]BlueprintLog: New page: Compile VRPawn
+[2023.02.10-20.46.46:891][981]LogBlueprint: Error: [AssetLog] C:\Users\ivmount\Documents\GitHub\LaBergeC_MountI\FinalProject\Content\VRTemplate\Blueprints\VRPawn.uasset: [Compiler] The current value of the ' Event ' pin is invalid: Unsupported type Delegate on pin Delegate
+[2023.02.10-20.46.46:955][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.02.10-20.47.04:872][688]BlueprintLog: New page: Compile VRPawn
+[2023.02.10-20.47.04:905][688]LogBlueprint: Error: [AssetLog] C:\Users\ivmount\Documents\GitHub\LaBergeC_MountI\FinalProject\Content\VRTemplate\Blueprints\VRPawn.uasset: [Compiler] Event BeginPlay  Signature Error: The selected function/event is not bindable - is the function/event deprecated, pure or latent?
+[2023.02.10-20.47.04:964][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.02.10-20.48.24:693][979]BlueprintLog: New page: Compile VRPawn
+[2023.02.10-20.48.24:789][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.02.10-20.48.38:265][200]BlueprintLog: New page: Compile VRPawn
+[2023.02.10-20.48.38:366][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.02.10-20.48.47:589][ 38]BlueprintLog: New page: Compile VRPawn
+[2023.02.10-20.48.47:689][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.02.10-20.48.48:892][139]BlueprintLog: New page: Compile VRPawn
+[2023.02.10-20.48.48:991][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.02.10-20.48.53:389][556]BlueprintLog: New page: Compile VRPawn
+[2023.02.10-20.48.53:489][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
