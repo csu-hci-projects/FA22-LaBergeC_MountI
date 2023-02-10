@@ -1690,3 +1690,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.10-21.06.22:401][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
 [2023.02.10-21.07.25:919][502]BlueprintLog: New page: Compile VRPawn
 [2023.02.10-21.07.26:008][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.02.10-21.08.15:817][ 50]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.10-21.08.15:817][ 50]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.10-21.08.15:817][ 50]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.10-21.08.47:780][389]BlueprintLog: New page: Compile VRPawn
+[2023.02.10-21.08.47:871][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
