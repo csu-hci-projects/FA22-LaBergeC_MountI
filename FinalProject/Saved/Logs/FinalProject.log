@@ -1448,3 +1448,75 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.10-20.13.53:555][214]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2023.02.10-20.13.54:498][214]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2023.02.10-20.15.38:874][ 37]LogDerivedDataCache: C:/Users/ivmount/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.057 and deleted 0 files with total size 0 MiB. Scanned 2101 files in 2083 folders with total size 56 MiB.
+[2023.02.10-20.19.20:862][882]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.10-20.19.20:862][882]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.10-20.19.20:862][882]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.10-20.19.23:397][882]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.02.10-20.19.23:406][882]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.02.10-20.19.23:411][882]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.02.10-20.19.23:434][884]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.02.10-20.19.24:423][975]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2023.02.10-20.19.24:430][975]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.02.10-20.19.25:397][ 90]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/NewWidgetBlueprint.NewWidgetBlueprint
+[2023.02.10-20.19.25:398][ 90]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.10-20.19.25:403][ 90]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.10-20.19.25:408][ 90]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.02.10-20.19.25:734][ 90]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.10-20.19.25:734][ 90]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.10-20.19.25:827][ 90]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.02.10-20.19.25:832][ 90]LogSlate: Took 0.004614 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.10-20.19.35:412][174]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> HUD
+[2023.02.10-20.19.35:432][174]LogMetaData: Removing '/Game/UI/HUD.SKEL_HUD_C' ref from Metadata '/Game/UI/NewWidgetBlueprint.PackageMetaData'
+[2023.02.10-20.19.35:432][174]LogMetaData: Removing '/Game/UI/HUD.HUD_C' ref from Metadata '/Game/UI/NewWidgetBlueprint.PackageMetaData'
+[2023.02.10-20.19.35:432][174]LogMetaData: Removing '/Game/UI/HUD.HUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/NewWidgetBlueprint.PackageMetaData'
+[2023.02.10-20.19.35:432][174]LogMetaData: Removing '/Game/UI/HUD.HUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/NewWidgetBlueprint.PackageMetaData'
+[2023.02.10-20.19.35:432][174]LogMetaData: Removing '/Game/UI/HUD.HUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/NewWidgetBlueprint.PackageMetaData'
+[2023.02.10-20.19.35:432][174]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.10-20.19.35:470][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/HUD.uasset" SILENT=true
+[2023.02.10-20.19.35:472][174]LogSavePackage: Moving output files for package: /Game/UI/HUD
+[2023.02.10-20.19.35:472][174]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/HUD3AAC8D3F46A8758AEEB02DBF24B1EA21.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/HUD.uasset'
+[2023.02.10-20.19.35:478][174]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 374 ms)
+[2023.02.10-20.19.35:539][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.02.10-20.19.35:573][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.02.10-20.19.35:604][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.02.10-20.19.35:610][174]AssetCheck: New page: Asset Save: HUD
+[2023.02.10-20.19.35:610][174]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/HUD.HUD
+[2023.02.10-20.20.03:368][220]LogSlate: Took 0.005958 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.02.10-20.21.10:305][416]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.10-20.21.14:766][805]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.10-20.21.38:015][788]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.10-20.22.32:384][579]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.10-20.24.08:054][970]LogEditorTransaction: Undo Add Widget
+[2023.02.10-20.27.53:390][423]BlueprintLog: New page: Compile HUD
+[2023.02.10-20.27.53:447][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.02.10-20.28.54:786][765]LogSlate: Took 0.004102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.02.10-20.32.25:087][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.02.10-20.32.25:091][544]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.045
+[2023.02.10-20.32.25:091][544]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
+[2023.02.10-20.32.25:107][544]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn]
+[2023.02.10-20.32.25:107][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
+[2023.02.10-20.32.25:171][544]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto1
+[2023.02.10-20.32.25:172][544]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/VRPawn_Auto1EB62448D4BAE57EB296228B7A238E386.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto1.uasset'
+[2023.02.10-20.32.25:173][544]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/HUD] ([2] browsable assets)...
+[2023.02.10-20.32.25:176][544]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/HUD.HUD]
+[2023.02.10-20.32.25:176][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/HUD]
+[2023.02.10-20.32.25:176][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/UI/HUD_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.02.10-20.32.25:181][544]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/HUD_Auto1
+[2023.02.10-20.32.25:181][544]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/HUD_Auto12A9AB7294DD0EF6AE101BB8534BCA869.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/UI/HUD_Auto1.uasset'
+[2023.02.10-20.32.25:181][544]LogFileHelpers: Auto-saving content packages took 0.091
+[2023.02.10-20.33.57:769][543]BlueprintLog: New page: Compile VRPawn
+[2023.02.10-20.33.57:803][543]LogBlueprint: Error: [AssetLog] C:\Users\ivmount\Documents\GitHub\LaBergeC_MountI\FinalProject\Content\VRTemplate\Blueprints\VRPawn.uasset: [Compiler] Event BeginPlay  Signature Error: The selected function/event is not bindable - is the function/event deprecated, pure or latent?
+[2023.02.10-20.33.57:868][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.02.10-20.34.47:147][952]BlueprintLog: New page: Compile HUD
+[2023.02.10-20.34.47:149][952]LogBlueprint: Error: [AssetLog] C:\Users\ivmount\Documents\GitHub\LaBergeC_MountI\FinalProject\Content\UI\HUD.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To VRPawn  to imply a specific type.
+[2023.02.10-20.34.47:149][952]LogBlueprint: Error: [AssetLog] C:\Users\ivmount\Documents\GitHub\LaBergeC_MountI\FinalProject\Content\UI\HUD.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2023.02.10-20.34.47:198][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.02.10-20.36.15:212][897]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.10-20.36.15:213][897]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.10-20.36.15:213][897]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.10-20.36.35:888][268]BlueprintLog: New page: Compile HUD
+[2023.02.10-20.36.35:889][268]LogBlueprint: Error: [AssetLog] C:\Users\ivmount\Documents\GitHub\LaBergeC_MountI\FinalProject\Content\UI\HUD.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To VRPawn  to imply a specific type.
+[2023.02.10-20.36.35:889][268]LogBlueprint: Error: [AssetLog] C:\Users\ivmount\Documents\GitHub\LaBergeC_MountI\FinalProject\Content\UI\HUD.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2023.02.10-20.36.35:939][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.02.10-20.37.40:022][583]BlueprintLog: New page: Compile HUD
+[2023.02.10-20.37.40:073][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
