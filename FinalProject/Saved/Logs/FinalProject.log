@@ -1594,3 +1594,99 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.10-20.50.36:548][  5]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2023.02.10-20.50.58:141][ 57]BlueprintLog: New page: Compile VRPawn
 [2023.02.10-20.50.58:255][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.02.10-20.51.27:332][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.02.10-20.51.27:339][587]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.055
+[2023.02.10-20.51.27:340][587]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
+[2023.02.10-20.51.27:368][587]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn]
+[2023.02.10-20.51.27:368][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
+[2023.02.10-20.51.27:424][587]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto2
+[2023.02.10-20.51.27:424][587]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/VRPawn_Auto264B470BA476BF9A3F85840BC6C9B61A2.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto2.uasset'
+[2023.02.10-20.51.27:424][587]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/HUD] ([2] browsable assets)...
+[2023.02.10-20.51.27:431][587]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/HUD.HUD]
+[2023.02.10-20.51.27:431][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/HUD]
+[2023.02.10-20.51.27:431][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/UI/HUD_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.02.10-20.51.27:437][587]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/HUD_Auto2
+[2023.02.10-20.51.27:437][587]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/HUD_Auto2441ADBB64ABAB06F8A9A349D194CD3E1.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/UI/HUD_Auto2.uasset'
+[2023.02.10-20.51.27:438][587]LogFileHelpers: Auto-saving content packages took 0.098
+[2023.02.10-20.51.59:543][966]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/HUD.HUD
+[2023.02.10-20.51.59:543][966]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.10-20.51.59:551][966]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.10-20.51.59:858][966]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.10-20.51.59:858][966]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.10-20.52.04:467][462]LogEditorTransaction: Undo Remove Widget
+[2023.02.10-20.52.50:073][ 76]BlueprintLog: New page: Compile HUD
+[2023.02.10-20.52.50:174][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.02.10-20.53.16:965][122]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.10-20.53.16:965][122]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.10-20.53.16:965][122]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.10-20.53.18:537][122]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.02.10-20.53.18:546][122]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.02.10-20.53.18:553][122]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.02.10-20.53.18:562][123]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.02.10-20.53.27:173][120]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> GameoverScreen
+[2023.02.10-20.53.27:178][120]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.02.10-20.53.28:211][238]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/GameoverScreen.GameoverScreen
+[2023.02.10-20.53.28:211][238]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.10-20.53.28:216][238]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.10-20.53.28:536][238]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.10-20.53.28:536][238]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.10-20.54.48:305][942]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 2814987640514882237
+[2023.02.10-20.54.48:305][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-20.54.48:314][943]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.10-20.54.48:319][943]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.10-20.54.48:324][943]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.10-20.54.48:327][943]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.10-20.54.48:328][943]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.10-20.54.48:898][  1]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 59
+[2023.02.10-20.54.48:899][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-20.54.48:904][  2]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.10-20.54.48:905][  2]LogSlate: Took 0.000069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.10-20.54.48:908][  2]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.10-20.54.48:912][  2]LogSlate: Took 0.000068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.10-20.54.48:914][  2]LogSlate: Took 0.000065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.10-20.55.27:209][333]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.10-20.58.03:318][601]BlueprintLog: New page: Compile GameoverScreen
+[2023.02.10-20.58.03:379][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.02.10-20.58.59:591][147]LogContentBrowser: Deferred new asset file creation: GameoverScreen1
+[2023.02.10-20.58.59:601][147]LogContentBrowser: Creating deferred item: GameoverScreen1
+[2023.02.10-20.58.59:616][148]LogContentBrowser: Renaming the item being created (Deferred Item: GameoverScreen1).
+[2023.02.10-20.59.05:834][778]LogContentBrowser: Attempting asset rename: GameoverScreen1 -> GameWin
+[2023.02.10-20.59.05:873][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.02.10-20.59.05:882][778]LogContentBrowser: End creating deferred item GameoverScreen1
+[2023.02.10-20.59.09:917][164]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/GameWin.GameWin
+[2023.02.10-20.59.09:917][164]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.10-20.59.09:923][164]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.10-20.59.10:240][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.10-20.59.10:240][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.10-20.59.28:028][600]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.10-20.59.59:506][147]BlueprintLog: New page: Compile GameWin
+[2023.02.10-20.59.59:560][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.02.10-21.00.16:068][462]BlueprintLog: New page: Compile GameWin
+[2023.02.10-21.00.16:120][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.02.10-21.00.20:191][746]LogSlate: Window 'GameWin' being destroyed
+[2023.02.10-21.00.20:198][746]LogSlate: Window 'GameWin' being destroyed
+[2023.02.10-21.00.20:200][746]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-21.00.20:200][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-21.00.20:264][746]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-21.00.20:264][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-21.00.20:269][746]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-21.00.20:269][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-21.00.20:326][746]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-21.00.20:326][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-21.00.20:331][746]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-21.00.20:331][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-21.00.20:398][746]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-21.00.20:398][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-21.00.20:403][746]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-21.00.20:403][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-21.00.27:613][566]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2023.02.10-21.00.27:613][566]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.10-21.00.28:121][567]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.10-21.04.41:341][802]LogSlate: Took 0.004622 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.02.10-21.05.44:451][433]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.10-21.05.44:452][433]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.10-21.05.44:452][433]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.10-21.06.22:299][402]BlueprintLog: New page: Compile VRPawn
+[2023.02.10-21.06.22:401][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.02.10-21.07.25:919][502]BlueprintLog: New page: Compile VRPawn
+[2023.02.10-21.07.26:008][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
