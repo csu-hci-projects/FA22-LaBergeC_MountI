@@ -1447,3 +1447,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.10-20.13.53:554][214]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
 [2023.02.10-20.13.53:555][214]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2023.02.10-20.13.54:498][214]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.10-20.15.38:874][ 37]LogDerivedDataCache: C:/Users/ivmount/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.057 and deleted 0 files with total size 0 MiB. Scanned 2101 files in 2083 folders with total size 56 MiB.
