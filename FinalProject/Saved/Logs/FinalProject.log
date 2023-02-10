@@ -1695,3 +1695,58 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.10-21.08.15:817][ 50]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
 [2023.02.10-21.08.47:780][389]BlueprintLog: New page: Compile VRPawn
 [2023.02.10-21.08.47:871][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.02.10-21.09.33:549][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.02.10-21.09.33:553][701]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.032
+[2023.02.10-21.09.33:554][701]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
+[2023.02.10-21.09.33:560][701]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn]
+[2023.02.10-21.09.33:560][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
+[2023.02.10-21.09.33:623][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto3
+[2023.02.10-21.09.33:623][701]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/VRPawn_Auto3AAA332B6491A4B3974A153854C6A4207.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto3.uasset'
+[2023.02.10-21.09.33:624][701]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/HUD] ([2] browsable assets)...
+[2023.02.10-21.09.33:630][701]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/HUD.HUD]
+[2023.02.10-21.09.33:630][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/HUD]
+[2023.02.10-21.09.33:630][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/UI/HUD_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.02.10-21.09.33:637][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/HUD_Auto3
+[2023.02.10-21.09.33:637][701]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/HUD_Auto3558F3BDB48346C8C35DEFD96C90F1139.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/UI/HUD_Auto3.uasset'
+[2023.02.10-21.09.33:638][701]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/GameWin] ([2] browsable assets)...
+[2023.02.10-21.09.33:640][701]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/GameWin.GameWin]
+[2023.02.10-21.09.33:640][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/GameWin]
+[2023.02.10-21.09.33:644][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/GameWin_Auto3
+[2023.02.10-21.09.33:644][701]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/GameWin_Auto338637F7B45FB691B2E648AB0FC6BDF5E.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/UI/GameWin_Auto3.uasset'
+[2023.02.10-21.09.33:644][701]LogFileHelpers: Auto-saving content packages took 0.091
+[2023.02.10-21.09.57:042][746]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Grabbable_SmallCube.Grabbable_SmallCube
+[2023.02.10-21.09.57:042][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.10-21.10.55:352][634]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/HUD.HUD
+[2023.02.10-21.10.55:352][634]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.10-21.10.55:359][634]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.10-21.10.55:676][634]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.10-21.10.55:676][634]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.10-21.10.58:110][895]LogSlate: Took 0.004223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.02.10-21.11.07:774][918]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display: ================================================
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display: Total job queries 63, among them cache hits 3 (4.76%)
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display: Tracking 60 distinct input hashes that result in 42 distinct outputs (70.00%)
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display: RAM used: 0.66 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100.00%)
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display: Job execution time: average 1.62 s, max 2.53 s
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display: Job life time (pending + execution): average 1.65 s, max 2.55
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.55 s
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display: Average processing rate: 0.78 jobs/sec
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display: Total thread time: 2.80 s
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display: Total thread preprocess time: 0.06 s
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display: Percentage time preprocessing: 2.17%
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display: Effective parallelization: 1.10 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 2.32 sec, max 2.32 sec, min 2.32 sec)
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.48 sec, max 0.48 sec, min 0.48 sec)
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 82.72% of total time (compiled    1 times, average 2.32 sec, max 2.32 sec, min 2.32 sec)
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.28% of total time (compiled    1 times, average 0.48 sec, max 0.48 sec, min 0.48 sec)
+[2023.02.10-21.11.07:828][919]LogShaderCompilers: Display: ================================================
+[2023.02.10-21.13.05:188][347]BlueprintLog: New page: Compile Grabbable_SmallCube
+[2023.02.10-21.13.05:248][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
