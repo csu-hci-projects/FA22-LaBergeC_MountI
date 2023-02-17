@@ -1562,3 +1562,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.17-20.24.00:118][521]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2023.02.17-20.24.00:119][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
 [2023.02.17-20.24.00:177][522]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.02.17-20.24.58:492][178]LogDerivedDataCache: C:/Users/claberge/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.060 and deleted 0 files with total size 0 MiB. Scanned 2709 files in 2694 folders with total size 148 MiB.
