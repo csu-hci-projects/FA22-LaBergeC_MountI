@@ -1437,3 +1437,4 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.02.17-20.14.14:869][ 88]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2023.02.17-20.15.16:122][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
 [2023.02.17-20.15.35:846][737]LogDerivedDataCache: C:/Users/ivmount/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.132 and deleted 0 files with total size 0 MiB. Scanned 2109 files in 2091 folders with total size 65 MiB.
+[2023.02.17-20.18.48:931][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
