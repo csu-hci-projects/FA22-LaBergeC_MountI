@@ -1,0 +1,6 @@
+2023/03/03-13:36:55.961 3680 Creating DB C:/Users/claberge/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/03/03-13:36:55.975 3680 Reusing MANIFEST C:/Users/claberge/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/03-13:38:22.593 474c Level-0 table #5: started
+2023/03/03-13:38:22.599 474c Level-0 table #5: 19255 bytes OK
+2023/03/03-13:38:22.605 474c Delete type=0 #3
+2023/03/03-13:38:22.606 474c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
