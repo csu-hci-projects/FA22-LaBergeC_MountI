@@ -2889,3 +2889,28 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.31-19.46.10:152][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 1.36 sec)
 [2023.03.31-19.46.10:158][822]AssetCheck: New page: Asset Save: VRTemplateMap
 [2023.03.31-19.46.10:158][822]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.03.31-19.55.12:191][223]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.31-19.55.12:236][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.03.31-19.55.12:254][223]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.03.31-19.55.12:254][223]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/VRTemplateMap99A7134640C2EB233B6955A088298E63.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.03.31-19.55.12:263][223]LogFileHelpers: No new changes to save!
+[2023.03.31-19.55.12:263][223]LogFileHelpers: Saving map 'VRTemplateMap' took 0.049
+[2023.03.31-19.55.12:272][223]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1.44 sec)
+[2023.03.31-19.55.12:277][223]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.03.31-19.55.12:278][223]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.03.31-19.55.21:792][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.31-19.55.21:809][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewActorComponent" FILE="../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/NewActorComponent.uasset" SILENT=true
+[2023.03.31-19.55.21:810][328]LogSavePackage: Moving output files for package: /Game/NewActorComponent
+[2023.03.31-19.55.21:811][328]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/NewActorComponentDF33333B4D2B71AC76D6A28192102888.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/NewActorComponent.uasset'
+[2023.03.31-19.55.21:817][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 24 ms (total: 1.46 sec)
+[2023.03.31-19.55.21:822][328]AssetCheck: New page: Asset Save: NewActorComponent
+[2023.03.31-19.55.21:822][328]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NewActorComponent.NewActorComponent
+[2023.03.31-19.55.23:607][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.31-19.55.23:653][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.03.31-19.55.23:669][537]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.03.31-19.55.23:671][537]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/VRTemplateMap64F43B6C4DB27586F7E41E8C80401F24.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.03.31-19.55.23:680][537]LogFileHelpers: No new changes to save!
+[2023.03.31-19.55.23:680][537]LogFileHelpers: Saving map 'VRTemplateMap' took 0.047
+[2023.03.31-19.55.23:687][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1.54 sec)
+[2023.03.31-19.55.23:691][537]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.03.31-19.55.23:691][537]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
