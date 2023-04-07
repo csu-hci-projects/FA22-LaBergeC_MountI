@@ -7753,3 +7753,14 @@ Script Stack (0 frames) :
 [2023.04.07-21.36.29:640][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.04.07-21.36.29:646][848]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
 [2023.04.07-21.36.29:646][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-21.38.07:656][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.04.07-21.38.11:594][  6]LogSlate: Window 'Save Content' being destroyed
+[2023.04.07-21.38.12:460][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.07-21.38.12:507][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.04.07-21.38.12:526][ 73]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.04.07-21.38.12:527][ 73]LogSavePackage: Moving '../../../../../../Users/claberge/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/VRTemplateMap37AC6C694D143F87E44F849ECD5D3D1A.tmp' to '../../../../../../Users/claberge/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.04.07-21.38.12:536][ 73]LogFileHelpers: No new changes to save!
+[2023.04.07-21.38.12:536][ 73]LogFileHelpers: Saving map 'VRTemplateMap' took 0.051
+[2023.04.07-21.38.12:546][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 2.91 sec)
+[2023.04.07-21.38.12:552][ 73]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.04.07-21.38.12:552][ 73]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
