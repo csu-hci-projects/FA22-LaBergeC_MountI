@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/NewActorComponent.uasset",
+				"C:/Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"D:/claberge/FA22-LaBergeC_MountI/FinalProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/claberge/FA22-LaBergeC_MountI/FinalProject/Content/UI/spawnUI.uasset",
 				"D:/claberge/FA22-LaBergeC_MountI/FinalProject/Content/UI/playerHud.uasset",
@@ -30,10 +34,7 @@
 				"C:/Users/claberge/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/board.uasset",
 				"C:/Users/claberge/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/dispalyCanvas.uasset",
 				"C:/Users/claberge/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/NewBlueprint.uasset",
-				"C:/Users/claberge/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/HUD.uasset",
-				"C:/Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
-				"C:/Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/NewActorComponent.uasset"
+				"C:/Users/claberge/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/HUD.uasset"
 			]
 		}
 	]
