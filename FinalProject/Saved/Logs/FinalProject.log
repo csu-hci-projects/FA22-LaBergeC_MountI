@@ -3352,3 +3352,121 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.04.19-01.03.46:871][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
 [2023.04.19-01.03.46:878][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
 [2023.04.19-01.03.46:934][320]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.04.19-01.04.31:585][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.04.19-01.04.31:603][535]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1
+[2023.04.19-01.04.31:604][535]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/VRTemplateMap_Auto12C9AEB054870B4E99DFE9AB3B58E0A3E.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap'
+[2023.04.19-01.04.31:608][535]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.076
+[2023.04.19-01.04.31:608][535]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.076
+[2023.04.19-01.04.31:609][535]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Cube_Blueprint] ([2] browsable assets)...
+[2023.04.19-01.04.31:647][535]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Cube_Blueprint.Cube_Blueprint]
+[2023.04.19-01.04.31:672][535]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Cube_Blueprint.Cube_Blueprint_C]
+[2023.04.19-01.04.31:672][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cube_Blueprint]
+[2023.04.19-01.04.31:676][535]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cube_Blueprint_Auto1
+[2023.04.19-01.04.31:677][535]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Cube_Blueprint_Auto1C94895AC43D6F15002908A9CFB12FB58.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/Cube_Blueprint_Auto1.uasset'
+[2023.04.19-01.04.31:678][535]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/Grabbable_SmallCube] ([2] browsable assets)...
+[2023.04.19-01.04.31:689][535]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/Grabbable_SmallCube.Grabbable_SmallCube]
+[2023.04.19-01.04.31:689][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Grabbable_SmallCube]
+[2023.04.19-01.04.31:694][535]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/Grabbable_SmallCube_Auto1
+[2023.04.19-01.04.31:694][535]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Grabbable_SmallCube_Auto153B7FD654ED21CFE8A54D9AA37461731.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/VRTemplate/Blueprints/Grabbable_SmallCube_Auto1.uasset'
+[2023.04.19-01.04.31:694][535]LogFileHelpers: Auto-saving content packages took 0.085
+[2023.04.19-01.05.55:275][684]LogSlate: Window 'Cube_Blueprint' being destroyed
+[2023.04.19-01.05.55:284][684]LogSlate: Window 'Cube_Blueprint' being destroyed
+[2023.04.19-01.05.55:294][684]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-01.05.55:294][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-01.05.55:300][684]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-01.05.55:300][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-01.05.55:342][684]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-01.05.55:342][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-01.05.55:348][684]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-01.05.55:348][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-01.05.55:392][684]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-01.05.55:392][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-01.05.55:398][684]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-01.05.55:398][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-01.05.55:431][684]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-01.05.55:431][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-01.05.55:501][684]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.19-01.05.55:501][684]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-01.05.55:501][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-01.05.55:539][684]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.19-01.05.55:539][684]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-01.05.55:539][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-01.06.06:585][998]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.19-01.06.06:585][998]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.19-01.06.06:585][998]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.19-01.06.11:110][998]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.04.19-01.06.11:193][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.04.19-01.06.11:214][998]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/collision_detector_Blueprint.collision_detector_Blueprint
+[2023.04.19-01.06.11:214][998]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.19-01.06.11:650][998]LogViewport: Scene viewport resized to 1136x563, mode Windowed.
+[2023.04.19-01.06.55:349][429]LogSlate: Window 'collision_detector_Blueprint' being destroyed
+[2023.04.19-01.06.55:357][429]LogSlate: Window 'collision_detector_Blueprint' being destroyed
+[2023.04.19-01.06.55:359][429]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-01.06.55:359][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-01.06.57:476][656]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/collision_detector_Blueprint.collision_detector_Blueprint
+[2023.04.19-01.06.57:476][656]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.19-01.07.01:722][ 41]LogSlate: Window 'collision_detector_Blueprint' being destroyed
+[2023.04.19-01.07.01:731][ 41]LogSlate: Window 'collision_detector_Blueprint' being destroyed
+[2023.04.19-01.07.01:734][ 41]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-01.07.01:734][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-01.07.03:708][248]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/collision_detector_Blueprint.collision_detector_Blueprint
+[2023.04.19-01.07.03:708][248]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.19-01.07.06:499][484]LogSlate: Window 'collision_detector_Blueprint' being destroyed
+[2023.04.19-01.07.06:507][484]LogSlate: Window 'collision_detector_Blueprint' being destroyed
+[2023.04.19-01.07.06:509][484]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-01.07.06:510][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-01.07.09:936][869]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/collision_detector_Blueprint.collision_detector_Blueprint
+[2023.04.19-01.07.09:936][869]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.19-01.07.13:375][172]LogSlate: Window 'collision_detector_Blueprint' being destroyed
+[2023.04.19-01.07.13:381][172]LogSlate: Window 'collision_detector_Blueprint' being destroyed
+[2023.04.19-01.07.13:384][172]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-01.07.13:384][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-01.07.15:345][388]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/collision_detector_Blueprint.collision_detector_Blueprint
+[2023.04.19-01.07.15:345][388]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.19-01.07.35:465][311]LogSlate: Window 'collision_detector_Blueprint' being destroyed
+[2023.04.19-01.07.35:473][311]LogSlate: Window 'collision_detector_Blueprint' being destroyed
+[2023.04.19-01.07.35:475][311]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-01.07.35:475][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-01.07.36:482][407]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/collision_detector_Blueprint.collision_detector_Blueprint
+[2023.04.19-01.07.36:482][407]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.19-01.07.38:537][554]LogSlate: Window 'collision_detector_Blueprint' being destroyed
+[2023.04.19-01.07.38:544][554]LogSlate: Window 'collision_detector_Blueprint' being destroyed
+[2023.04.19-01.07.38:547][554]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-01.07.38:547][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-01.07.40:523][768]LogSlate: Window 'Content Browser' being destroyed
+[2023.04.19-01.07.40:528][768]LogSlate: Window 'Content Browser' being destroyed
+[2023.04.19-01.07.43:909][167]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/collision_detector_Blueprint.collision_detector_Blueprint
+[2023.04.19-01.07.43:910][167]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.19-01.07.49:455][679]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Cube_Blueprint.Cube_Blueprint
+[2023.04.19-01.07.49:456][679]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.19-01.07.58:772][463]LogSlate: Window 'Cube_Blueprint' being destroyed
+[2023.04.19-01.07.58:780][463]LogSlate: Window 'Cube_Blueprint' being destroyed
+[2023.04.19-01.07.58:782][463]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-01.07.58:782][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-01.07.58:824][463]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.19-01.07.58:824][463]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-01.07.58:824][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-01.08.04:446][121]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/collision_detector_Blueprint.collision_detector_Blueprint
+[2023.04.19-01.08.04:446][121]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.19-01.08.09:165][538]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Cube_Blueprint.Cube_Blueprint
+[2023.04.19-01.08.09:165][538]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.19-01.08.14:417][937]LogSlate: Window 'Cube_Blueprint' being destroyed
+[2023.04.19-01.08.14:424][937]LogSlate: Window 'Cube_Blueprint' being destroyed
+[2023.04.19-01.08.14:427][937]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-01.08.14:427][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-01.08.14:469][937]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.19-01.08.14:469][937]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-01.08.14:469][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-01.08.58:558][190]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/collision_detector_Blueprint.collision_detector_Blueprint
+[2023.04.19-01.08.58:558][190]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.19-01.09.01:426][428]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Cube_Blueprint.Cube_Blueprint
+[2023.04.19-01.09.01:426][428]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.19-01.11.07:002][294]BlueprintLog: New page: Compile Cube_Blueprint
+[2023.04.19-01.11.07:117][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.04.19-01.11.08:736][434]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-01.11.08:771][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube_Blueprint" FILE="../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/Cube_Blueprint.uasset" SILENT=true
+[2023.04.19-01.11.08:776][434]LogSavePackage: Moving output files for package: /Game/Cube_Blueprint
+[2023.04.19-01.11.08:777][434]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Cube_BlueprintE51C0EA0470F185CFB2551B144AA02F4.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/Cube_Blueprint.uasset'
+[2023.04.19-01.11.08:784][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 632 ms)
+[2023.04.19-01.11.08:790][434]AssetCheck: New page: Asset Save: Cube_Blueprint
+[2023.04.19-01.11.08:790][434]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Cube_Blueprint.Cube_Blueprint
