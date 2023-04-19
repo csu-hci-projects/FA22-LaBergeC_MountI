@@ -4519,3 +4519,10 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.04.19-01.18.07:690][ 48]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
 [2023.04.19-01.18.08:024][ 49]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
 [2023.04.19-01.18.08:358][ 50]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.08:691][ 51]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.09:024][ 52]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.09:358][ 53]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.09:690][ 54]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.10:024][ 55]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.10:357][ 56]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.10:693][ 57]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
