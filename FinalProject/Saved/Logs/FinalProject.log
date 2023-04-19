@@ -3470,3 +3470,1052 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.04.19-01.11.08:784][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 632 ms)
 [2023.04.19-01.11.08:790][434]AssetCheck: New page: Asset Save: Cube_Blueprint
 [2023.04.19-01.11.08:790][434]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Cube_Blueprint.Cube_Blueprint
+[2023.04.19-01.12.21:231][685]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.19-01.12.21:232][685]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.19-01.12.21:232][685]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.19-01.12.24:326][685]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.04.19-01.12.24:338][685]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.04.19-01.12.24:345][685]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.04.19-01.12.24:362][686]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.04.19-01.12.28:933][221]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> minimap
+[2023.04.19-01.12.28:938][221]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.04.19-01.12.29:933][339]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/minimap.minimap
+[2023.04.19-01.12.29:933][339]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.19-01.12.29:938][339]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.19-01.12.30:254][339]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.19-01.12.30:254][339]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.19-01.12.44:743][840]BlueprintLog: New page: Compile minimap
+[2023.04.19-01.12.44:796][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.04.19-01.14.31:963][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.04.19-01.14.31:982][271]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2
+[2023.04.19-01.14.31:983][271]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/VRTemplateMap_Auto20BE97D8E4DC83DC07D0F698153C75180.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2.umap'
+[2023.04.19-01.14.31:990][271]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.063
+[2023.04.19-01.14.31:990][271]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.063
+[2023.04.19-01.14.31:990][271]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/collision_detector_Blueprint] ([2] browsable assets)...
+[2023.04.19-01.14.31:996][271]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/collision_detector_Blueprint.collision_detector_Blueprint]
+[2023.04.19-01.14.32:009][271]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/VRTemplate/Blueprints/collision_detector_Blueprint.collision_detector_Blueprint_C]
+[2023.04.19-01.14.32:009][271]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/collision_detector_Blueprint]
+[2023.04.19-01.14.32:012][271]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/collision_detector_Blueprint_Auto2
+[2023.04.19-01.14.32:012][271]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/collision_detector_Blueprint_Aut64D799E64E5E4D574044BBA202526E29.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/VRTemplate/Blueprints/collision_detector_Blueprint_Auto2.uasset'
+[2023.04.19-01.14.32:013][271]LogFileHelpers: Auto-saving content packages took 0.024
+[2023.04.19-01.14.34:076][405]BlueprintLog: New page: Compile minimap
+[2023.04.19-01.14.34:109][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.04.19-01.15.08:215][309]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.04.19-01.17.43:481][ 40]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.43:501][ 41]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.44:500][ 44]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.44:839][ 45]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.45:165][ 46]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.45:499][ 47]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.45:832][ 48]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.46:166][ 49]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.46:499][ 50]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.46:833][ 51]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.47:165][ 52]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.47:499][ 53]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.47:833][ 54]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.48:166][ 55]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.48:500][ 56]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.48:833][ 57]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.48:848][ 58]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.48:863][ 59]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.48:883][ 60]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.48:996][ 61]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:080][ 62]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:114][ 63]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:133][ 64]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:151][ 65]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:168][ 66]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:185][ 67]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:202][ 68]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:219][ 69]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:236][ 70]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:254][ 71]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:270][ 72]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:287][ 73]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:304][ 74]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:320][ 75]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:338][ 76]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:354][ 77]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:370][ 78]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:387][ 79]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:404][ 80]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:421][ 81]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:438][ 82]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:455][ 83]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:472][ 84]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:490][ 85]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:508][ 86]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:526][ 87]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:544][ 88]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:562][ 89]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:580][ 90]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:597][ 91]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:615][ 92]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:633][ 93]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:653][ 94]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:667][ 95]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:680][ 96]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:693][ 97]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:707][ 98]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:719][ 99]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:731][100]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:744][101]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:756][102]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:768][103]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:780][104]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:793][105]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:806][106]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:818][107]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:829][108]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:844][109]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:856][110]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:869][111]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:880][112]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:891][113]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:904][114]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:916][115]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:928][116]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:939][117]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:951][118]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:963][119]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:977][120]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.49:989][121]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:001][122]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:013][123]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:026][124]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:038][125]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:051][126]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:062][127]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:075][128]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:087][129]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:099][130]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:111][131]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:123][132]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:136][133]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:149][134]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:162][135]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:174][136]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:185][137]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:198][138]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:210][139]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:223][140]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:236][141]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:250][142]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:262][143]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:275][144]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:290][145]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:304][146]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:323][147]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:336][148]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:351][149]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:364][150]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:380][151]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:398][152]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:412][153]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:427][154]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:440][155]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:452][156]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:467][157]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:480][158]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:492][159]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:505][160]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:520][161]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:534][162]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:548][163]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:563][164]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:575][165]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:587][166]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:599][167]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:610][168]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:622][169]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:634][170]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:645][171]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:657][172]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:669][173]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:681][174]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:692][175]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:703][176]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:716][177]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:728][178]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:742][179]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:756][180]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:768][181]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:840][182]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:851][183]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:864][184]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:876][185]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:888][186]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:901][187]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:913][188]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:924][189]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:937][190]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:948][191]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:960][192]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:972][193]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:984][194]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.50:996][195]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:007][196]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:019][197]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:031][198]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:042][199]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:055][200]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:066][201]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:078][202]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:089][203]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:101][204]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:113][205]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:125][206]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:137][207]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:150][208]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:162][209]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:175][210]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:187][211]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:198][212]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:210][213]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:222][214]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:233][215]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:245][216]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:256][217]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:268][218]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:338][219]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:351][220]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:363][221]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:374][222]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:387][223]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:399][224]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:411][225]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:423][226]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:436][227]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:447][228]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:459][229]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:470][230]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:482][231]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:494][232]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:506][233]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:517][234]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:529][235]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:541][236]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:552][237]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:564][238]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:576][239]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:588][240]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:601][241]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:612][242]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:623][243]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:636][244]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:649][245]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:662][246]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:674][247]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:762][248]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:777][249]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:791][250]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:806][251]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:821][252]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:835][253]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:849][254]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:863][255]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:876][256]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:891][257]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:905][258]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:918][259]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:931][260]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:944][261]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:959][262]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:972][263]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:985][264]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.51:999][265]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:011][266]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:025][267]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:037][268]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:051][269]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:064][270]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:078][271]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:092][272]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:106][273]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:118][274]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:132][275]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:145][276]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:158][277]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:172][278]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:185][279]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:199][280]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:212][281]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:225][282]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:238][283]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:252][284]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:265][285]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:279][286]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:292][287]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:305][288]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:319][289]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:333][290]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:347][291]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:360][292]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:374][293]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:387][294]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:399][295]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:414][296]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:427][297]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:440][298]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:454][299]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:467][300]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:479][301]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:492][302]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:506][303]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:519][304]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:533][305]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:546][306]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:559][307]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:572][308]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:585][309]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:598][310]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:612][311]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:625][312]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:638][313]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:651][314]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:664][315]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:677][316]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:690][317]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:740][318]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:785][319]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:804][320]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:823][321]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:842][322]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:861][323]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:881][324]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:899][325]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:919][326]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:938][327]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:957][328]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:975][329]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.52:993][330]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:009][331]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:026][332]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:043][333]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:060][334]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:077][335]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:095][336]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:113][337]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:131][338]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:148][339]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:166][340]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:184][341]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:201][342]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:218][343]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:236][344]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:253][345]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:270][346]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:287][347]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:304][348]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:322][349]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:340][350]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:357][351]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:374][352]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:392][353]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:409][354]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:426][355]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:444][356]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:462][357]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:480][358]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:497][359]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:514][360]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:531][361]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:549][362]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:567][363]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:584][364]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:601][365]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:619][366]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:636][367]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:653][368]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:671][369]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:689][370]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:705][371]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:722][372]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:739][373]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:756][374]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:773][375]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:791][376]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:808][377]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:825][378]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:842][379]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:860][380]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:877][381]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:894][382]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:911][383]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:929][384]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:945][385]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:963][386]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:982][387]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.53:994][388]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:005][389]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:016][390]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:028][391]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:038][392]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:050][393]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:061][394]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:073][395]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:084][396]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:096][397]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:107][398]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:119][399]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:130][400]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:143][401]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:155][402]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:167][403]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:179][404]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:190][405]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:208][406]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:220][407]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:233][408]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:245][409]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:256][410]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:268][411]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:280][412]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:291][413]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:303][414]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:314][415]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:325][416]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:338][417]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:349][418]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:360][419]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:372][420]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:384][421]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:394][422]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:406][423]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:418][424]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:430][425]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:441][426]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:454][427]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:468][428]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:482][429]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:494][430]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:506][431]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:519][432]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:532][433]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:544][434]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:556][435]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:567][436]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:578][437]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:591][438]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:602][439]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:615][440]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:627][441]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:639][442]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:651][443]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:663][444]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:676][445]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:688][446]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:700][447]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:712][448]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:724][449]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:736][450]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:749][451]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:761][452]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:771][453]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:784][454]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:795][455]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:808][456]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:825][457]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:837][458]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:850][459]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:861][460]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:873][461]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:885][462]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:897][463]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:909][464]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:921][465]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:932][466]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:944][467]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:956][468]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:969][469]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:983][470]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.54:995][471]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:007][472]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:019][473]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:032][474]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:043][475]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:055][476]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:068][477]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:080][478]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:092][479]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:104][480]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:116][481]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:129][482]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:140][483]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:152][484]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:165][485]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:176][486]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:190][487]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:200][488]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:210][489]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:220][490]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:230][491]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:241][492]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:250][493]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:258][494]BlueprintLog: New page: Compile minimap
+[2023.04.19-01.17.55:311][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.04.19-01.17.55:340][494]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:364][495]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:377][496]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:389][497]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:401][498]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:413][499]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:425][500]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:437][501]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:449][502]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:460][503]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:473][504]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:485][505]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:496][506]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:508][507]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:520][508]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:532][509]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:544][510]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:555][511]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:567][512]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:579][513]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:590][514]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:602][515]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:615][516]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:626][517]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:638][518]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:650][519]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:661][520]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:674][521]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:686][522]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:698][523]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:709][524]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:721][525]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:733][526]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:744][527]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:756][528]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:767][529]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:781][530]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:792][531]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:804][532]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:816][533]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:828][534]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:840][535]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:852][536]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:864][537]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:875][538]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:887][539]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:899][540]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:910][541]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:922][542]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:934][543]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:945][544]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:957][545]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:969][546]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:982][547]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.55:994][548]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:005][549]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:018][550]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:029][551]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:041][552]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:052][553]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:065][554]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:076][555]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:086][556]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:098][557]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:108][558]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:120][559]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:132][560]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:144][561]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:156][562]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:169][563]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:181][564]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:192][565]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:205][566]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:216][567]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:227][568]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:239][569]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:252][570]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:264][571]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:275][572]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:287][573]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:299][574]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:311][575]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:322][576]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:334][577]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:345][578]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:357][579]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:369][580]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:380][581]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:392][582]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:405][583]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:416][584]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:428][585]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:440][586]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:452][587]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:464][588]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:476][589]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:488][590]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:500][591]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:512][592]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:525][593]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:536][594]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:547][595]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:560][596]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:572][597]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:584][598]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:596][599]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:608][600]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:620][601]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:632][602]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:644][603]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:656][604]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:669][605]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:680][606]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:691][607]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:703][608]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:714][609]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:727][610]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:739][611]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:750][612]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:762][613]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:775][614]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:787][615]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:799][616]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:811][617]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:823][618]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:834][619]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:846][620]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:857][621]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:869][622]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:881][623]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:892][624]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:904][625]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:916][626]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:928][627]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:940][628]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:951][629]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:963][630]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:975][631]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:987][632]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.56:999][633]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:010][634]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:022][635]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:034][636]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:046][637]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:058][638]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:069][639]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:081][640]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:092][641]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:105][642]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:117][643]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:129][644]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:141][645]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:154][646]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:166][647]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:177][648]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:189][649]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:201][650]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:214][651]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:226][652]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:238][653]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:250][654]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:262][655]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:273][656]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:285][657]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:297][658]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:308][659]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:320][660]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:332][661]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:344][662]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:356][663]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:367][664]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:379][665]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:391][666]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:403][667]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:416][668]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:428][669]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:440][670]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:451][671]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:464][672]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:475][673]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:486][674]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:498][675]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:510][676]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:522][677]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:533][678]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:545][679]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:558][680]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:570][681]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:582][682]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:594][683]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:606][684]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:619][685]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:631][686]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:641][687]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:654][688]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:666][689]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:677][690]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:689][691]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:700][692]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:712][693]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:724][694]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:735][695]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:747][696]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:759][697]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:771][698]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:783][699]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:796][700]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:807][701]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:818][702]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:830][703]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:843][704]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:854][705]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:866][706]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:878][707]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:889][708]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:902][709]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:913][710]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:925][711]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:936][712]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:948][713]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:960][714]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:971][715]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:982][716]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.57:994][717]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:006][718]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:018][719]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:029][720]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:042][721]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:053][722]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:066][723]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:077][724]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:089][725]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:101][726]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:114][727]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:126][728]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:138][729]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:149][730]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:162][731]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:173][732]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:184][733]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:196][734]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:207][735]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:218][736]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:230][737]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:241][738]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:252][739]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:264][740]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:276][741]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:288][742]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:300][743]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:310][744]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:323][745]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:335][746]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:347][747]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:359][748]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:371][749]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:382][750]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:395][751]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:407][752]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:419][753]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:430][754]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:443][755]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:455][756]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:467][757]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:479][758]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:491][759]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:503][760]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:515][761]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:526][762]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:538][763]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:550][764]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:563][765]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:574][766]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:586][767]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:597][768]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:608][769]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:620][770]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:632][771]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:644][772]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:655][773]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:667][774]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:680][775]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:694][776]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:708][777]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:719][778]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:731][779]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:743][780]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:754][781]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:766][782]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:777][783]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:789][784]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:800][785]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:812][786]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:824][787]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:835][788]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:846][789]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:857][790]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:869][791]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:881][792]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:893][793]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:904][794]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:917][795]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:929][796]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:941][797]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:952][798]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:964][799]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:976][800]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:987][801]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.58:998][802]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:010][803]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:020][804]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:032][805]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:044][806]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:055][807]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:067][808]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:078][809]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:090][810]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:101][811]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:114][812]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:125][813]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:136][814]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:147][815]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:159][816]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:171][817]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:182][818]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:194][819]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:206][820]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:223][821]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:236][822]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:247][823]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:259][824]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:271][825]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:283][826]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:296][827]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:318][828]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:329][829]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:340][830]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:352][831]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:363][832]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:374][833]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:386][834]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:409][835]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:420][836]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:433][837]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:445][838]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:457][839]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:470][840]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:481][841]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:494][842]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:506][843]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:517][844]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:529][845]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:542][846]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:554][847]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:565][848]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:578][849]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:591][850]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:601][851]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:610][852]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:619][853]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:630][854]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:639][855]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:649][856]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:659][857]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:667][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-01.17.59:696][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/minimap" FILE="../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/minimap.uasset" SILENT=true
+[2023.04.19-01.17.59:700][858]LogSavePackage: Moving output files for package: /Game/UI/minimap
+[2023.04.19-01.17.59:700][858]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/minimapD8C9FA7C433924ECFB3045B2DE89905C.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/minimap.uasset'
+[2023.04.19-01.17.59:706][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 671 ms)
+[2023.04.19-01.17.59:712][858]AssetCheck: New page: Asset Save: minimap
+[2023.04.19-01.17.59:712][858]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/minimap.minimap
+[2023.04.19-01.17.59:714][858]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:726][859]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:740][860]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:752][861]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:764][862]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:776][863]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:787][864]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:799][865]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:812][866]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:824][867]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:835][868]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:849][869]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:860][870]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:872][871]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:883][872]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:895][873]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:906][874]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:918][875]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:929][876]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:941][877]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:953][878]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:965][879]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:977][880]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.17.59:989][881]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:001][882]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:013][883]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:025][884]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:036][885]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:048][886]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:059][887]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:071][888]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:083][889]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:094][890]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:105][891]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:117][892]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:128][893]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:140][894]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:152][895]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:163][896]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:175][897]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:186][898]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:197][899]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:209][900]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:221][901]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:232][902]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:245][903]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:255][904]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:267][905]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:279][906]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:290][907]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:301][908]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:313][909]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:325][910]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:337][911]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:348][912]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:360][913]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:372][914]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:383][915]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:395][916]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:406][917]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:417][918]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:428][919]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:440][920]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:452][921]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:463][922]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:474][923]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:485][924]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:498][925]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:509][926]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:520][927]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:532][928]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:543][929]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:553][930]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:564][931]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:576][932]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:586][933]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:598][934]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:609][935]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:620][936]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:631][937]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:642][938]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:654][939]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:665][940]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:676][941]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:687][942]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:699][943]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:710][944]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:721][945]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:733][946]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:743][947]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:754][948]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:765][949]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:778][950]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:789][951]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:800][952]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:812][953]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:822][954]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:833][955]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:844][956]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:856][957]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:867][958]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:878][959]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:889][960]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:902][961]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:912][962]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:924][963]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:936][964]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:946][965]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:958][966]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:969][967]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:981][968]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.00:992][969]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:004][970]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:016][971]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:027][972]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:039][973]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:050][974]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:061][975]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:072][976]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:084][977]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:096][978]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:107][979]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:118][980]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:130][981]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:141][982]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:153][983]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:164][984]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:177][985]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:188][986]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:200][987]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:211][988]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:222][989]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:234][990]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:245][991]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:257][992]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:268][993]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:280][994]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:291][995]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:303][996]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:314][997]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:326][998]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:337][999]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:349][  0]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:359][  1]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:371][  2]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:382][  3]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:394][  4]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:405][  5]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:417][  6]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:428][  7]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:439][  8]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:451][  9]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:463][ 10]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:474][ 11]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:486][ 12]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:496][ 13]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:507][ 14]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:519][ 15]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:530][ 16]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:542][ 17]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:554][ 18]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:565][ 19]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:576][ 20]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:588][ 21]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:599][ 22]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:610][ 23]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:621][ 24]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:633][ 25]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:644][ 26]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:655][ 27]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:666][ 28]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:677][ 29]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.01:689][ 30]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.02:023][ 31]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.02:356][ 32]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.02:690][ 33]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.03:023][ 34]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.03:356][ 35]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.03:689][ 36]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.04:022][ 37]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.04:356][ 38]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.04:689][ 39]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.05:022][ 40]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.05:356][ 41]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.05:691][ 42]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.06:024][ 43]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.06:357][ 44]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.06:691][ 45]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.07:024][ 46]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.07:357][ 47]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.07:690][ 48]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.08:024][ 49]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2023.04.19-01.18.08:358][ 50]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
