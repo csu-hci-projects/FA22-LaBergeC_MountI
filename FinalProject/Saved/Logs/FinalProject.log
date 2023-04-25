@@ -2798,3 +2798,467 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.04.25-18.43.30:634][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
 [2023.04.25-18.43.46:629][943]BlueprintLog: New page: Compile displaymini2
 [2023.04.25-18.43.46:697][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.04.25-18.48.26:351][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.04.25-18.48.26:379][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2
+[2023.04.25-18.48.26:379][701]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/VRTemplateMap_Auto280CBF8084414B6C751E38E88D572D89C.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2.umap'
+[2023.04.25-18.48.26:387][701]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.091
+[2023.04.25-18.48.26:387][701]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.091
+[2023.04.25-18.48.26:387][701]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/displayerforminimap] ([2] browsable assets)...
+[2023.04.25-18.48.26:387][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/displayerforminimap]
+[2023.04.25-18.48.26:393][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/displayerforminimap_Auto2
+[2023.04.25-18.48.26:393][701]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/displayerforminimap_Auto289D4A54342A5088854F136BC71D33C7E.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/UI/displayerforminimap_Auto2.uasset'
+[2023.04.25-18.48.26:394][701]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/displaymini] ([2] browsable assets)...
+[2023.04.25-18.48.26:397][701]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/displaymini.displaymini]
+[2023.04.25-18.48.26:397][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/displaymini]
+[2023.04.25-18.48.26:403][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/displaymini_Auto2
+[2023.04.25-18.48.26:403][701]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/displaymini_Auto214D04EE042DEEA61081BE6AF13CC1B4A.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/UI/displaymini_Auto2.uasset'
+[2023.04.25-18.48.26:404][701]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/displaymini1] ([2] browsable assets)...
+[2023.04.25-18.48.26:407][701]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/displaymini1.displaymini1]
+[2023.04.25-18.48.26:407][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/displaymini1]
+[2023.04.25-18.48.26:412][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/displaymini1_Auto2
+[2023.04.25-18.48.26:412][701]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/displaymini1_Auto2312788D84BDED56B738CD19CADB811BD.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/UI/displaymini1_Auto2.uasset'
+[2023.04.25-18.48.26:412][701]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/displaymini2] ([2] browsable assets)...
+[2023.04.25-18.48.26:416][701]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/displaymini2.displaymini2]
+[2023.04.25-18.48.26:416][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/displaymini2]
+[2023.04.25-18.48.26:420][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/displaymini2_Auto2
+[2023.04.25-18.48.26:420][701]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/displaymini2_Auto22AE302E24A363321B6B3079D5332369D.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/UI/displaymini2_Auto2.uasset'
+[2023.04.25-18.48.26:421][701]LogFileHelpers: Auto-saving content packages took 0.034
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display: ================================================
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display: Total job queries 232, among them cache hits 117 (50.43%)
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display: Tracking 115 distinct input hashes that result in 70 distinct outputs (60.87%)
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display: RAM used: 1.10 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.07%
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display: Shaders Compiled: 5
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100.00%)
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display: Average time worker was idle: 67.80 s
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.09 s
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display: Job execution time: average 1.04 s, max 2.63 s
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display: Job life time (pending + execution): average 1.09 s, max 2.67
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.10 s
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display: Average processing rate: 1.22 jobs/sec
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display: Total thread time: 4.43 s
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display: Total thread preprocess time: 0.16 s
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display: Percentage time preprocessing: 3.67%
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display: Effective parallelization: 1.08 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 1.15 sec, max 2.43 sec, min 0.48 sec)
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 77.89% of total time (compiled    3 times, average 1.15 sec, max 2.43 sec, min 0.48 sec)
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.11% of total time (compiled    2 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2023.04.25-18.49.30:001][293]LogShaderCompilers: Display: ================================================
+[2023.04.25-18.49.30:496][345]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/spawnUI.spawnUI
+[2023.04.25-18.49.30:496][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-18.49.37:086][979]LogSlate: Window 'spawnUI' being destroyed
+[2023.04.25-18.49.37:095][979]LogSlate: Window 'spawnUI' being destroyed
+[2023.04.25-18.49.37:098][979]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.49.37:098][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.49.37:146][979]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.25-18.49.37:146][979]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.49.37:146][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.49.37:265][979]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.49.37:265][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.49.37:271][979]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.49.37:271][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.49.37:332][979]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.49.37:332][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.49.37:337][979]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.49.37:337][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.49.37:393][979]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.49.37:393][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.49.37:399][979]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.49.37:399][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.49.37:437][979]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.25-18.49.37:437][979]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.49.37:437][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.49.38:726][115]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/spawnUI.spawnUI
+[2023.04.25-18.49.38:726][115]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-18.49.41:026][317]LogSlate: Window 'spawnUI' being destroyed
+[2023.04.25-18.49.41:034][317]LogSlate: Window 'spawnUI' being destroyed
+[2023.04.25-18.49.41:038][317]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.49.41:038][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.49.41:970][417]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/spawnUI.spawnUI
+[2023.04.25-18.49.41:970][417]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-18.49.43:796][571]LogSlate: Window 'spawnUI' being destroyed
+[2023.04.25-18.49.43:804][571]LogSlate: Window 'spawnUI' being destroyed
+[2023.04.25-18.49.43:807][571]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.49.43:808][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.49.46:590][872]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/spawnUI.spawnUI
+[2023.04.25-18.49.46:590][872]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-18.49.48:068][987]LogSlate: Window 'spawnUI' being destroyed
+[2023.04.25-18.49.48:076][987]LogSlate: Window 'spawnUI' being destroyed
+[2023.04.25-18.49.48:080][987]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.49.48:080][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.49.49:948][195]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/spawnUI.spawnUI
+[2023.04.25-18.49.49:948][195]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-18.49.52:122][386]LogSlate: Window 'spawnUI' being destroyed
+[2023.04.25-18.49.52:130][386]LogSlate: Window 'spawnUI' being destroyed
+[2023.04.25-18.49.52:134][386]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.49.52:134][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.50.07:368][ 55]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/spawnUI.spawnUI
+[2023.04.25-18.50.07:368][ 55]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-18.50.09:327][210]LogSlate: Window 'spawnUI' being destroyed
+[2023.04.25-18.50.09:337][210]LogSlate: Window 'spawnUI' being destroyed
+[2023.04.25-18.50.09:341][210]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.50.09:341][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.51.23:646][571]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.25-18.51.23:650][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.25-18.51.23:651][571]PIE: New page: PIE session: VRTemplateMap (Apr 25, 2023, 6:51:23 AM)
+[2023.04.25-18.51.23:651][571]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.25-18.51.23:658][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007679s)
+[2023.04.25-18.51.23:658][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.007708s)
+[2023.04.25-18.51.23:658][571]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-18.51.23:659][571]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.04.25-18.51.23:659][571]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2023.04.25-18.51.23:692][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.04.25-18.51.23:698][571]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.04.25-18.51.23:698][571]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.25-18.51.23:698][571]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.25-18.51.23:698][571]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.25-18.51.23:698][571]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.25-18.51.23:698][571]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.25-18.51.23:698][571]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.25-18.51.23:698][571]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.25-18.51.23:698][571]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.25-18.51.23:698][571]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.04.25-18.51.23:698][571]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.04.25-18.51.23:698][571]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.25-18.51.23:700][571]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.25-18.51.23:715][571]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.04.25-18.51.23:716][571]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.25-18.51.23:716][571]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.25-18.51.23:716][571]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.25-18.51.23:716][571]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.04.25-18.51.23:716][571]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.04.25-18.51.23:718][571]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.04.25-18.51.23:718][571]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.04.25-18.51.23:718][571]LogInit: FAudioDevice initialized.
+[2023.04.25-18.51.23:718][571]LogAudio: Display: Audio Device (ID: 9) registered with world 'VRTemplateMap'.
+[2023.04.25-18.51.23:722][571]LogLoad: Game class is 'VRGameMode_C'
+[2023.04.25-18.51.23:725][571]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.04.25-12.51.23
+[2023.04.25-18.51.23:725][571]LogWorld: Bringing up level for play took: 0.003384
+[2023.04.25-18.51.23:728][571]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2023.04.25-18.51.23:730][571]LogScript: Warning: Accessed None trying to read property charRef
+	playerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.playerHud_C_0
+	Function /Game/UI/playerHud.playerHud_C:Get_TargetsDestroyedTotal_Text_1:0027
+[2023.04.25-18.51.23:730][571]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TargetsDestroyedTotal_Text_1 Function:  Get Targets Destroyed Total Text 1 Blueprint:  playerHud
+[2023.04.25-18.51.23:730][571]LogScript: Warning: Accessed None trying to read property charRef
+	playerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.playerHud_C_0
+	Function /Game/UI/playerHud.playerHud_C:Get_TimeRemaining_Text:0027
+[2023.04.25-18.51.23:730][571]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TimeRemaining_Text Function:  Get Time Remaining Text Blueprint:  playerHud
+[2023.04.25-18.51.23:732][571]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.25-18.51.23:732][571]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.04.25-18.51.23:732][571]PIE: Server logged in
+[2023.04.25-18.51.23:732][571]PIE: Play in editor total start time 0.082 seconds.
+[2023.04.25-18.51.23:734][571]LogScript: Warning: Accessed None trying to read property charRef
+	playerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.playerHud_C_1
+	Function /Game/UI/playerHud.playerHud_C:Get_TargetsDestroyedTotal_Text_1:0027
+[2023.04.25-18.51.23:734][571]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TargetsDestroyedTotal_Text_1 Function:  Get Targets Destroyed Total Text 1 Blueprint:  playerHud
+[2023.04.25-18.51.23:735][571]LogScript: Warning: Accessed None trying to read property charRef
+	playerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.playerHud_C_1
+	Function /Game/UI/playerHud.playerHud_C:Get_TimeRemaining_Text:0027
+[2023.04.25-18.51.23:735][571]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TimeRemaining_Text Function:  Get Time Remaining Text Blueprint:  playerHud
+[2023.04.25-18.51.23:735][571]LogScript: Warning: Accessed None trying to read property charRef
+	playerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.playerHud_C_2
+	Function /Game/UI/playerHud.playerHud_C:Get_TargetsDestroyedTotal_Text_1:0027
+[2023.04.25-18.51.23:735][571]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TargetsDestroyedTotal_Text_1 Function:  Get Targets Destroyed Total Text 1 Blueprint:  playerHud
+[2023.04.25-18.51.23:735][571]LogScript: Warning: Accessed None trying to read property charRef
+	playerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.playerHud_C_2
+	Function /Game/UI/playerHud.playerHud_C:Get_TimeRemaining_Text:0027
+[2023.04.25-18.51.23:735][571]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TimeRemaining_Text Function:  Get Time Remaining Text Blueprint:  playerHud
+[2023.04.25-18.51.23:736][571]LogScript: Warning: Accessed None trying to read property charRef
+	playerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.playerHud_C_3
+	Function /Game/UI/playerHud.playerHud_C:Get_TargetsDestroyedTotal_Text_1:0027
+[2023.04.25-18.51.23:736][571]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TargetsDestroyedTotal_Text_1 Function:  Get Targets Destroyed Total Text 1 Blueprint:  playerHud
+[2023.04.25-18.51.23:736][571]LogScript: Warning: Accessed None trying to read property charRef
+	playerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.playerHud_C_3
+	Function /Game/UI/playerHud.playerHud_C:Get_TimeRemaining_Text:0027
+[2023.04.25-18.51.23:736][571]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TimeRemaining_Text Function:  Get Time Remaining Text Blueprint:  playerHud
+[2023.04.25-18.51.23:782][571]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.04.25-18.51.25:096][726]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.04.25-18.51.25:096][726]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.04.25-18.51.25:097][726]LogNet: Browse: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.04.25-18.51.25:097][726]LogLoad: LoadMap: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.04.25-18.51.25:097][726]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.25-18.51.25:100][726]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.51.25:100][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.51.25:146][726]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-18.51.25:149][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.04.25-18.51.25:152][726]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.25-18.51.25:160][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007527s)
+[2023.04.25-18.51.25:160][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.007570s)
+[2023.04.25-18.51.25:160][726]LogAudio: Display: Audio Device (ID: 9) registered with world 'VRTemplateMap'.
+[2023.04.25-18.51.25:160][726]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-18.51.25:160][726]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.04.25-18.51.25:160][726]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2023.04.25-18.51.25:160][726]LogLoad: Game class is 'VRGameMode_C'
+[2023.04.25-18.51.25:162][726]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.04.25-12.51.25
+[2023.04.25-18.51.25:163][726]LogWorld: Bringing up level for play took: 0.002369
+[2023.04.25-18.51.25:165][726]LogScript: Warning: Accessed None trying to read property charRef
+	playerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.playerHud_C_4
+	Function /Game/UI/playerHud.playerHud_C:Get_TargetsDestroyedTotal_Text_1:0027
+[2023.04.25-18.51.25:165][726]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TargetsDestroyedTotal_Text_1 Function:  Get Targets Destroyed Total Text 1 Blueprint:  playerHud
+[2023.04.25-18.51.25:165][726]LogScript: Warning: Accessed None trying to read property charRef
+	playerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.playerHud_C_4
+	Function /Game/UI/playerHud.playerHud_C:Get_TimeRemaining_Text:0027
+[2023.04.25-18.51.25:166][726]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TimeRemaining_Text Function:  Get Time Remaining Text Blueprint:  playerHud
+[2023.04.25-18.51.25:167][726]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.25-18.51.25:167][726]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.04.25-18.51.25:167][726]LogLoad: Took 0.070353 seconds to LoadMap(/Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap)
+[2023.04.25-18.51.25:168][726]LogScript: Warning: Accessed None trying to read property charRef
+	playerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.playerHud_C_5
+	Function /Game/UI/playerHud.playerHud_C:Get_TargetsDestroyedTotal_Text_1:0027
+[2023.04.25-18.51.25:168][726]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TargetsDestroyedTotal_Text_1 Function:  Get Targets Destroyed Total Text 1 Blueprint:  playerHud
+[2023.04.25-18.51.25:169][726]LogScript: Warning: Accessed None trying to read property charRef
+	playerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.playerHud_C_5
+	Function /Game/UI/playerHud.playerHud_C:Get_TimeRemaining_Text:0027
+[2023.04.25-18.51.25:169][726]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TimeRemaining_Text Function:  Get Time Remaining Text Blueprint:  playerHud
+[2023.04.25-18.51.25:169][726]LogScript: Warning: Accessed None trying to read property charRef
+	playerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.playerHud_C_6
+	Function /Game/UI/playerHud.playerHud_C:Get_TargetsDestroyedTotal_Text_1:0027
+[2023.04.25-18.51.25:169][726]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TargetsDestroyedTotal_Text_1 Function:  Get Targets Destroyed Total Text 1 Blueprint:  playerHud
+[2023.04.25-18.51.25:169][726]LogScript: Warning: Accessed None trying to read property charRef
+	playerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.playerHud_C_6
+	Function /Game/UI/playerHud.playerHud_C:Get_TimeRemaining_Text:0027
+[2023.04.25-18.51.25:169][726]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TimeRemaining_Text Function:  Get Time Remaining Text Blueprint:  playerHud
+[2023.04.25-18.51.25:170][726]LogScript: Warning: Accessed None trying to read property charRef
+	playerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.playerHud_C_7
+	Function /Game/UI/playerHud.playerHud_C:Get_TargetsDestroyedTotal_Text_1:0027
+[2023.04.25-18.51.25:170][726]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TargetsDestroyedTotal_Text_1 Function:  Get Targets Destroyed Total Text 1 Blueprint:  playerHud
+[2023.04.25-18.51.25:170][726]LogScript: Warning: Accessed None trying to read property charRef
+	playerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.playerHud_C_7
+	Function /Game/UI/playerHud.playerHud_C:Get_TimeRemaining_Text:0027
+[2023.04.25-18.51.25:170][726]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TimeRemaining_Text Function:  Get Time Remaining Text Blueprint:  playerHud
+[2023.04.25-18.51.56:133][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-18.51.56:133][733]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.25-18.51.56:135][733]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.51.56:135][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.51.56:140][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.25-18.51.56:145][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.51.56:168][733]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-18.51.56:168][733]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.04.25-18.51.56:168][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.04.25-18.51.56:170][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.04.25-18.51.56:175][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-18.51.56:178][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.04.25-18.51.56:464][734]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.04.25-18.52.58:795][203]Cmd: SELECT NONE
+[2023.04.25-18.53.00:247][332]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.25-18.53.00:252][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.25-18.53.00:252][332]PIE: New page: PIE session: VRTemplateMap (Apr 25, 2023, 6:53:00 AM)
+[2023.04.25-18.53.00:275][332]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.25-18.53.00:283][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007259s)
+[2023.04.25-18.53.00:283][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.007294s)
+[2023.04.25-18.53.00:283][332]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-18.53.00:283][332]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.04.25-18.53.00:283][332]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2023.04.25-18.53.00:304][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.04.25-18.53.00:308][332]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.04.25-18.53.00:308][332]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.25-18.53.00:308][332]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.25-18.53.00:308][332]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.25-18.53.00:308][332]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.25-18.53.00:308][332]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.25-18.53.00:308][332]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.25-18.53.00:308][332]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.25-18.53.00:308][332]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.25-18.53.00:308][332]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.04.25-18.53.00:308][332]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.04.25-18.53.00:308][332]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.25-18.53.00:311][332]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.25-18.53.00:326][332]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.04.25-18.53.00:327][332]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.25-18.53.00:327][332]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.25-18.53.00:327][332]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.25-18.53.00:328][332]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.04.25-18.53.00:328][332]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.04.25-18.53.00:329][332]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.04.25-18.53.00:329][332]LogInit: FAudioDevice initialized.
+[2023.04.25-18.53.00:329][332]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.04.25-18.53.00:329][332]LogAudio: Display: Audio Device (ID: 10) registered with world 'VRTemplateMap'.
+[2023.04.25-18.53.00:332][332]LogLoad: Game class is 'VRGameMode_C'
+[2023.04.25-18.53.00:335][332]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.04.25-12.53.00
+[2023.04.25-18.53.00:335][332]LogWorld: Bringing up level for play took: 0.003056
+[2023.04.25-18.53.00:338][332]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.04.25-18.53.00:340][332]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TargetsDestroyedTotal_Text_1 Function:  Get Targets Destroyed Total Text 1 Blueprint:  playerHud
+[2023.04.25-18.53.00:341][332]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TimeRemaining_Text Function:  Get Time Remaining Text Blueprint:  playerHud
+[2023.04.25-18.53.00:342][332]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.25-18.53.00:342][332]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.04.25-18.53.00:342][332]PIE: Server logged in
+[2023.04.25-18.53.00:343][332]PIE: Play in editor total start time 0.09 seconds.
+[2023.04.25-18.53.00:345][332]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TargetsDestroyedTotal_Text_1 Function:  Get Targets Destroyed Total Text 1 Blueprint:  playerHud
+[2023.04.25-18.53.00:345][332]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TimeRemaining_Text Function:  Get Time Remaining Text Blueprint:  playerHud
+[2023.04.25-18.53.00:345][332]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TargetsDestroyedTotal_Text_1 Function:  Get Targets Destroyed Total Text 1 Blueprint:  playerHud
+[2023.04.25-18.53.00:346][332]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TimeRemaining_Text Function:  Get Time Remaining Text Blueprint:  playerHud
+[2023.04.25-18.53.00:346][332]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TargetsDestroyedTotal_Text_1 Function:  Get Targets Destroyed Total Text 1 Blueprint:  playerHud
+[2023.04.25-18.53.00:346][332]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TimeRemaining_Text Function:  Get Time Remaining Text Blueprint:  playerHud
+[2023.04.25-18.53.00:389][332]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.04.25-18.53.13:847][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-18.53.13:847][930]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.25-18.53.13:848][930]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.53.13:848][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.53.13:852][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.25-18.53.13:856][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.53.13:877][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-18.53.13:877][930]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.04.25-18.53.13:877][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.04.25-18.53.13:879][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.04.25-18.53.13:886][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.04.25-18.53.13:942][931]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.04.25-18.53.36:790][321]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/displaymini2.displaymini2
+[2023.04.25-18.53.36:790][321]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-18.53.36:805][321]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-18.53.37:167][321]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.25-18.53.37:167][321]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.25-18.53.47:642][347]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/displaymini1.displaymini1
+[2023.04.25-18.53.47:642][347]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-18.53.47:656][347]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-18.53.47:994][347]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.25-18.53.47:994][347]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.25-18.53.54:370][910]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.04.25-18.53.59:437][188]BlueprintLog: New page: Compile displaymini1
+[2023.04.25-18.53.59:491][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.04.25-18.54.03:722][618]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/displaymini.displaymini
+[2023.04.25-18.54.03:722][618]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-18.54.03:737][618]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-18.54.04:072][618]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.25-18.54.04:072][618]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.25-18.54.17:499][581]BlueprintLog: New page: Compile displaymini
+[2023.04.25-18.54.17:560][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.04.25-18.54.26:498][433]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.25-18.54.26:503][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.25-18.54.26:503][433]PIE: New page: PIE session: VRTemplateMap (Apr 25, 2023, 6:54:26 AM)
+[2023.04.25-18.54.26:546][433]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.25-18.54.26:553][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007747s)
+[2023.04.25-18.54.26:553][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.007789s)
+[2023.04.25-18.54.26:554][433]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-18.54.26:554][433]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.04.25-18.54.26:555][433]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2023.04.25-18.54.26:592][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.04.25-18.54.26:594][433]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.04.25-18.54.26:594][433]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.25-18.54.26:594][433]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.25-18.54.26:594][433]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.25-18.54.26:595][433]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.25-18.54.26:595][433]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.25-18.54.26:595][433]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.25-18.54.26:595][433]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.25-18.54.26:595][433]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.25-18.54.26:595][433]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.04.25-18.54.26:595][433]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.04.25-18.54.26:595][433]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.25-18.54.26:596][433]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.25-18.54.26:614][433]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.04.25-18.54.26:615][433]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.25-18.54.26:615][433]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.25-18.54.26:615][433]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.25-18.54.26:615][433]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.04.25-18.54.26:615][433]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.04.25-18.54.26:616][433]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.04.25-18.54.26:616][433]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.04.25-18.54.26:616][433]LogInit: FAudioDevice initialized.
+[2023.04.25-18.54.26:616][433]LogAudio: Display: Audio Device (ID: 11) registered with world 'VRTemplateMap'.
+[2023.04.25-18.54.26:619][433]LogLoad: Game class is 'VRGameMode_C'
+[2023.04.25-18.54.26:623][433]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.04.25-12.54.26
+[2023.04.25-18.54.26:623][433]LogWorld: Bringing up level for play took: 0.003167
+[2023.04.25-18.54.26:625][433]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2023.04.25-18.54.26:628][433]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TargetsDestroyedTotal_Text_1 Function:  Get Targets Destroyed Total Text 1 Blueprint:  playerHud
+[2023.04.25-18.54.26:628][433]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TimeRemaining_Text Function:  Get Time Remaining Text Blueprint:  playerHud
+[2023.04.25-18.54.26:630][433]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.25-18.54.26:630][433]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.04.25-18.54.26:630][433]PIE: Server logged in
+[2023.04.25-18.54.26:630][433]PIE: Play in editor total start time 0.127 seconds.
+[2023.04.25-18.54.26:632][433]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TargetsDestroyedTotal_Text_1 Function:  Get Targets Destroyed Total Text 1 Blueprint:  playerHud
+[2023.04.25-18.54.26:632][433]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TimeRemaining_Text Function:  Get Time Remaining Text Blueprint:  playerHud
+[2023.04.25-18.54.26:633][433]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TargetsDestroyedTotal_Text_1 Function:  Get Targets Destroyed Total Text 1 Blueprint:  playerHud
+[2023.04.25-18.54.26:633][433]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TimeRemaining_Text Function:  Get Time Remaining Text Blueprint:  playerHud
+[2023.04.25-18.54.26:633][433]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TargetsDestroyedTotal_Text_1 Function:  Get Targets Destroyed Total Text 1 Blueprint:  playerHud
+[2023.04.25-18.54.26:633][433]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TimeRemaining_Text Function:  Get Time Remaining Text Blueprint:  playerHud
+[2023.04.25-18.54.26:680][433]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.04.25-18.54.32:467][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-18.54.32:467][120]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.25-18.54.32:470][120]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.54.32:470][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.54.32:473][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.25-18.54.32:478][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.54.32:515][120]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-18.54.32:515][120]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.04.25-18.54.32:515][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.04.25-18.54.32:517][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.04.25-18.54.32:520][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-18.54.32:523][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.04.25-18.54.32:580][121]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2023.04.25-18.54.42:156][160]LogSlate: Window 'Message Log' being destroyed
+[2023.04.25-18.54.42:168][160]LogSlate: Window 'Message Log' being destroyed
+[2023.04.25-18.54.46:341][632]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/displayerforminimap.displayerforminimap
+[2023.04.25-18.54.46:341][632]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-18.54.49:947][935]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.25-18.54.49:947][935]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.25-18.54.49:947][935]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.25-18.54.59:555][839]BlueprintLog: New page: Compile displayerforminimap
+[2023.04.25-18.54.59:623][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.04.25-18.55.03:735][312]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.25-18.55.03:742][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.25-18.55.03:742][312]PIE: New page: PIE session: VRTemplateMap (Apr 25, 2023, 6:55:03 AM)
+[2023.04.25-18.55.03:765][312]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.25-18.55.03:773][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008045s)
+[2023.04.25-18.55.03:773][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.008080s)
+[2023.04.25-18.55.03:773][312]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-18.55.03:774][312]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.04.25-18.55.03:774][312]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2023.04.25-18.55.03:815][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.04.25-18.55.03:817][312]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.04.25-18.55.03:817][312]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.25-18.55.03:817][312]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.25-18.55.03:817][312]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.25-18.55.03:817][312]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.25-18.55.03:817][312]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.25-18.55.03:817][312]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.25-18.55.03:817][312]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.25-18.55.03:817][312]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.25-18.55.03:818][312]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.04.25-18.55.03:818][312]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.04.25-18.55.03:818][312]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.25-18.55.03:819][312]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.25-18.55.03:835][312]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.04.25-18.55.03:835][312]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.25-18.55.03:835][312]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.25-18.55.03:835][312]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.25-18.55.03:836][312]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.04.25-18.55.03:836][312]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.04.25-18.55.03:837][312]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.04.25-18.55.03:837][312]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.04.25-18.55.03:837][312]LogInit: FAudioDevice initialized.
+[2023.04.25-18.55.03:837][312]LogAudio: Display: Audio Device (ID: 12) registered with world 'VRTemplateMap'.
+[2023.04.25-18.55.03:841][312]LogLoad: Game class is 'VRGameMode_C'
+[2023.04.25-18.55.03:844][312]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.04.25-12.55.03
+[2023.04.25-18.55.03:845][312]LogWorld: Bringing up level for play took: 0.003248
+[2023.04.25-18.55.03:846][312]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2023.04.25-18.55.03:849][312]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TargetsDestroyedTotal_Text_1 Function:  Get Targets Destroyed Total Text 1 Blueprint:  playerHud
+[2023.04.25-18.55.03:849][312]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TimeRemaining_Text Function:  Get Time Remaining Text Blueprint:  playerHud
+[2023.04.25-18.55.03:851][312]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.25-18.55.03:851][312]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.04.25-18.55.03:851][312]PIE: Server logged in
+[2023.04.25-18.55.03:851][312]PIE: Play in editor total start time 0.109 seconds.
+[2023.04.25-18.55.03:853][312]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TargetsDestroyedTotal_Text_1 Function:  Get Targets Destroyed Total Text 1 Blueprint:  playerHud
+[2023.04.25-18.55.03:853][312]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TimeRemaining_Text Function:  Get Time Remaining Text Blueprint:  playerHud
+[2023.04.25-18.55.03:854][312]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TargetsDestroyedTotal_Text_1 Function:  Get Targets Destroyed Total Text 1 Blueprint:  playerHud
+[2023.04.25-18.55.03:854][312]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TimeRemaining_Text Function:  Get Time Remaining Text Blueprint:  playerHud
+[2023.04.25-18.55.03:854][312]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TargetsDestroyedTotal_Text_1 Function:  Get Targets Destroyed Total Text 1 Blueprint:  playerHud
+[2023.04.25-18.55.03:854][312]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property charRef". Node:  Return Node Graph:  Get_TimeRemaining_Text Function:  Get Time Remaining Text Blueprint:  playerHud
+[2023.04.25-18.55.03:897][312]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.04.25-18.55.14:977][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-18.55.14:977][635]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.25-18.55.14:979][635]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.55.14:979][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.55.14:995][635]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.25-18.55.15:000][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.55.15:041][635]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-18.55.15:041][635]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.04.25-18.55.15:041][635]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.04.25-18.55.15:042][635]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.04.25-18.55.15:046][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-18.55.15:049][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.04.25-18.55.15:111][636]LogPlayLevel: Display: Destroying online subsystem :Context_52
