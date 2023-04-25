@@ -3262,3 +3262,63 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.04.25-18.55.15:046][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.04.25-18.55.15:049][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
 [2023.04.25-18.55.15:111][636]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2023.04.25-18.58.22:587][694]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/spawnUI.spawnUI
+[2023.04.25-18.58.22:587][694]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-18.58.25:912][952]LogSlate: Window 'spawnUI' being destroyed
+[2023.04.25-18.58.25:919][952]LogSlate: Window 'spawnUI' being destroyed
+[2023.04.25-18.58.25:965][952]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.58.25:965][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.58.25:972][952]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.58.25:972][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.58.26:031][952]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.58.26:031][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.58.26:038][952]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.58.26:038][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.58.26:127][952]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.58.26:127][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.58.26:132][952]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.58.26:132][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.58.26:180][952]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.58.26:180][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.58.26:238][952]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.25-18.58.26:238][952]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-18.58.26:238][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-18.58.39:386][277]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/playerHud.playerHud
+[2023.04.25-18.58.39:388][277]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-18.58.39:397][277]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-18.58.39:767][277]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.25-18.58.39:767][277]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.25-18.59.30:933][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.04.25-18.59.30:965][ 82]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto3
+[2023.04.25-18.59.30:966][ 82]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/VRTemplateMap_Auto335271916430D0145C001A2A8C7D54A12.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto3.umap'
+[2023.04.25-18.59.30:972][ 82]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.083
+[2023.04.25-18.59.30:972][ 82]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.083
+[2023.04.25-18.59.30:972][ 82]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/displayerforminimap] ([2] browsable assets)...
+[2023.04.25-18.59.30:972][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/displayerforminimap]
+[2023.04.25-18.59.30:978][ 82]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/displayerforminimap_Auto3
+[2023.04.25-18.59.30:978][ 82]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/displayerforminimap_Auto3DCF6891A42F3A40B0AA1F5AA45F6CE32.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/UI/displayerforminimap_Auto3.uasset'
+[2023.04.25-18.59.30:979][ 82]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/displaymini] ([2] browsable assets)...
+[2023.04.25-18.59.30:981][ 82]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/displaymini.displaymini]
+[2023.04.25-18.59.30:982][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/displaymini]
+[2023.04.25-18.59.30:988][ 82]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/displaymini_Auto3
+[2023.04.25-18.59.30:988][ 82]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/displaymini_Auto3D54253544C8EE622252B4ABD07DDEEF3.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/UI/displaymini_Auto3.uasset'
+[2023.04.25-18.59.30:989][ 82]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/playerHud] ([2] browsable assets)...
+[2023.04.25-18.59.30:994][ 82]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/playerHud.playerHud]
+[2023.04.25-18.59.30:994][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/playerHud]
+[2023.04.25-18.59.31:006][ 82]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/playerHud_Auto3
+[2023.04.25-18.59.31:006][ 82]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/playerHud_Auto3D9032435475CC624EB7C21A11DF7A2CA.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/UI/playerHud_Auto3.uasset'
+[2023.04.25-18.59.31:007][ 82]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/displaymini1] ([2] browsable assets)...
+[2023.04.25-18.59.31:009][ 82]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/displaymini1.displaymini1]
+[2023.04.25-18.59.31:009][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/displaymini1]
+[2023.04.25-18.59.31:014][ 82]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/displaymini1_Auto3
+[2023.04.25-18.59.31:014][ 82]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/displaymini1_Auto366B7ECCD420E5E4B19222992A3394743.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Autosaves/Game/UI/displaymini1_Auto3.uasset'
+[2023.04.25-18.59.31:015][ 82]LogFileHelpers: Auto-saving content packages took 0.043
+[2023.04.25-19.03.48:342][310]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Cube_Blueprint.Cube_Blueprint
+[2023.04.25-19.03.48:342][310]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-19.04.30:938][892]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.25-19.04.30:939][892]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.25-19.04.30:939][892]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.25-19.05.13:093][610]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.RecastNavMesh-Default).
+[2023.04.25-19.05.51:735][ 44]BlueprintLog: New page: Compile Cube_Blueprint
+[2023.04.25-19.05.51:808][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.04.25-19.05.51:910][ 45]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.RecastNavMesh-Default).
