@@ -3322,3 +3322,130 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.04.25-19.05.51:735][ 44]BlueprintLog: New page: Compile Cube_Blueprint
 [2023.04.25-19.05.51:808][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
 [2023.04.25-19.05.51:910][ 45]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.RecastNavMesh-Default).
+[2023.04.25-19.06.19:942][368]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2023.04.25-19.06.19:942][368]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-19.06.57:757][492]BlueprintLog: New page: Compile VRPawn
+[2023.04.25-19.06.57:872][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.04.25-19.06.58:107][493]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.RecastNavMesh-Default).
+[2023.04.25-19.09.07:373][566]LogSlate: Window 'Message Log' being destroyed
+[2023.04.25-19.09.07:386][566]LogSlate: Window 'Message Log' being destroyed
+[2023.04.25-19.09.44:881][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.25-19.09.44:951][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.04.25-19.09.44:975][639]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.04.25-19.09.44:976][639]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/VRTemplateMapC5E485FD4EDD8406F01B9092BB28B697.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.04.25-19.09.44:986][639]LogFileHelpers: No new changes to save!
+[2023.04.25-19.09.44:986][639]LogFileHelpers: Saving map 'VRTemplateMap' took 0.078
+[2023.04.25-19.09.44:993][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 1.21 sec)
+[2023.04.25-19.09.45:001][639]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.04.25-19.09.45:001][639]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.04.25-19.09.45:448][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.25-19.09.45:524][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.04.25-19.09.45:548][684]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.04.25-19.09.45:548][684]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/VRTemplateMapB540D4FE4F599F1BEFDCDDA5DC05B9CB.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.04.25-19.09.45:558][684]LogFileHelpers: No new changes to save!
+[2023.04.25-19.09.45:558][684]LogFileHelpers: Saving map 'VRTemplateMap' took 0.074
+[2023.04.25-19.09.45:566][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 1.33 sec)
+[2023.04.25-19.09.45:573][684]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.04.25-19.09.45:573][684]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.04.25-19.09.45:937][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.25-19.09.46:012][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.04.25-19.09.46:034][720]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.04.25-19.09.46:034][720]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/VRTemplateMapBB3B345F4923D770BE24F08D86BD8FA6.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.04.25-19.09.46:044][720]LogFileHelpers: No new changes to save!
+[2023.04.25-19.09.46:044][720]LogFileHelpers: Saving map 'VRTemplateMap' took 0.072
+[2023.04.25-19.09.46:052][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 1.45 sec)
+[2023.04.25-19.09.46:059][720]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.04.25-19.09.46:059][720]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.04.25-19.09.46:122][726]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.25-19.09.46:197][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.04.25-19.09.46:219][726]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.04.25-19.09.46:220][726]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/VRTemplateMap67CBFA334C1119DA9208E9B969CA8A84.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.04.25-19.09.46:230][726]LogFileHelpers: No new changes to save!
+[2023.04.25-19.09.46:230][726]LogFileHelpers: Saving map 'VRTemplateMap' took 0.070
+[2023.04.25-19.09.46:238][726]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 1.56 sec)
+[2023.04.25-19.09.46:244][726]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.04.25-19.09.46:244][726]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.04.25-19.09.46:295][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.25-19.09.46:373][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.25-19.09.46:396][731]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.04.25-19.09.46:397][731]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/VRTemplateMap8DAAC68146759E8A201B98B0953B05A0.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.04.25-19.09.46:406][731]LogFileHelpers: No new changes to save!
+[2023.04.25-19.09.46:406][731]LogFileHelpers: Saving map 'VRTemplateMap' took 0.069
+[2023.04.25-19.09.46:414][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 1.68 sec)
+[2023.04.25-19.09.46:420][731]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.04.25-19.09.46:420][731]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.04.25-19.10.11:863][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.25-19.10.13:614][684]LogSlate: Window 'Save Content' being destroyed
+[2023.04.25-19.10.13:625][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.25-19.10.13:653][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/better_room_2" FILE="../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/better_room_2.uasset" SILENT=true
+[2023.04.25-19.10.13:660][684]LogSavePackage: Moving output files for package: /Game/UI/better_room_2
+[2023.04.25-19.10.13:660][684]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/better_room_204D926374010E65B3964578772AE7C43.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/better_room_2.uasset'
+[2023.04.25-19.10.13:691][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube_Blueprint" FILE="../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/Cube_Blueprint.uasset" SILENT=true
+[2023.04.25-19.10.13:696][684]LogSavePackage: Moving output files for package: /Game/Cube_Blueprint
+[2023.04.25-19.10.13:697][684]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/Cube_Blueprint57070A75472747B497F6B7A6DC86349D.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/Cube_Blueprint.uasset'
+[2023.04.25-19.10.13:698][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/displayerforminimap" FILE="../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/displayerforminimap.uasset" SILENT=true
+[2023.04.25-19.10.13:703][684]LogSavePackage: Moving output files for package: /Game/UI/displayerforminimap
+[2023.04.25-19.10.13:704][684]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/displayerforminimap83ED43D24E0496BCACD651834FC06C66.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/displayerforminimap.uasset'
+[2023.04.25-19.10.13:704][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/displaymini" FILE="../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/displaymini.uasset" SILENT=true
+[2023.04.25-19.10.13:710][684]LogSavePackage: Moving output files for package: /Game/UI/displaymini
+[2023.04.25-19.10.13:710][684]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/displaymini1AF6F9A94EDF9605141B5A92BC1B615D.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/displaymini.uasset'
+[2023.04.25-19.10.13:711][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/displaymini1" FILE="../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/displaymini1.uasset" SILENT=true
+[2023.04.25-19.10.13:714][684]LogSavePackage: Moving output files for package: /Game/UI/displaymini1
+[2023.04.25-19.10.13:714][684]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/displaymini182B812CD4ADAE05586DDF696FF1ED94E.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/displaymini1.uasset'
+[2023.04.25-19.10.13:715][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/displaymini2" FILE="../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/displaymini2.uasset" SILENT=true
+[2023.04.25-19.10.13:719][684]LogSavePackage: Moving output files for package: /Game/UI/displaymini2
+[2023.04.25-19.10.13:719][684]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/displaymini27B0D57494F18167E4353A5B8600E2113.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/displaymini2.uasset'
+[2023.04.25-19.10.13:741][684]LogShaderCompilers: Display: ================================================
+[2023.04.25-19.10.13:741][684]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.25-19.10.13:741][684]LogShaderCompilers: Display: Total job queries 241, among them cache hits 117 (48.55%)
+[2023.04.25-19.10.13:741][684]LogShaderCompilers: Display: Tracking 124 distinct input hashes that result in 78 distinct outputs (62.90%)
+[2023.04.25-19.10.13:741][684]LogShaderCompilers: Display: RAM used: 1.15 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.07%
+[2023.04.25-19.10.13:741][684]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.25-19.10.13:741][684]LogShaderCompilers: Display: Shaders Compiled: 5
+[2023.04.25-19.10.13:741][684]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100.00%)
+[2023.04.25-19.10.13:741][684]LogShaderCompilers: Display: Average time worker was idle: 67.80 s
+[2023.04.25-19.10.13:741][684]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.09 s
+[2023.04.25-19.10.13:741][684]LogShaderCompilers: Display: Job execution time: average 1.04 s, max 2.63 s
+[2023.04.25-19.10.13:741][684]LogShaderCompilers: Display: Job life time (pending + execution): average 1.09 s, max 2.67
+[2023.04.25-19.10.13:741][684]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.10 s
+[2023.04.25-19.10.13:741][684]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.25-19.10.13:741][684]LogShaderCompilers: Display: Average processing rate: 1.22 jobs/sec
+[2023.04.25-19.10.13:741][684]LogShaderCompilers: Display: Total thread time: 4.43 s
+[2023.04.25-19.10.13:742][684]LogShaderCompilers: Display: Total thread preprocess time: 0.16 s
+[2023.04.25-19.10.13:742][684]LogShaderCompilers: Display: Percentage time preprocessing: 3.67%
+[2023.04.25-19.10.13:742][684]LogShaderCompilers: Display: Effective parallelization: 1.08 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.25-19.10.13:742][684]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.04.25-19.10.13:742][684]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 1.15 sec, max 2.43 sec, min 0.48 sec)
+[2023.04.25-19.10.13:742][684]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2023.04.25-19.10.13:742][684]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.04.25-19.10.13:742][684]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 77.89% of total time (compiled    3 times, average 1.15 sec, max 2.43 sec, min 0.48 sec)
+[2023.04.25-19.10.13:742][684]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.11% of total time (compiled    2 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2023.04.25-19.10.13:742][684]LogShaderCompilers: Display: ================================================
+[2023.04.25-19.10.13:744][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/mm2" FILE="../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/mm2.uasset" SILENT=true
+[2023.04.25-19.10.13:745][684]LogSavePackage: Moving output files for package: /Game/UI/mm2
+[2023.04.25-19.10.13:745][684]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/mm2ADEDE92B4CFBB182137C24B9151D0D32.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/mm2.uasset'
+[2023.04.25-19.10.13:757][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/mm3" FILE="../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/mm3.uasset" SILENT=true
+[2023.04.25-19.10.13:759][684]LogSavePackage: Moving output files for package: /Game/UI/mm3
+[2023.04.25-19.10.13:759][684]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/mm38990A1B2498D5E25D7C748BEDCEF54D8.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/mm3.uasset'
+[2023.04.25-19.10.13:765][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/playerHud" FILE="../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/playerHud.uasset" SILENT=true
+[2023.04.25-19.10.13:775][684]LogSavePackage: Moving output files for package: /Game/UI/playerHud
+[2023.04.25-19.10.13:776][684]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/playerHud5BFC38A34B32628DB79986A8FB08D153.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/playerHud.uasset'
+[2023.04.25-19.10.13:777][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/room_3" FILE="../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/room_3.uasset" SILENT=true
+[2023.04.25-19.10.13:784][684]LogSavePackage: Moving output files for package: /Game/UI/room_3
+[2023.04.25-19.10.13:784][684]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/room_3B7B9C6124FB066622698C49625D6F632.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/UI/room_3.uasset'
+[2023.04.25-19.10.13:850][684]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2023.04.25-19.10.13:850][684]LogSavePackage: Moving '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Saved/VRPawn3C8568604EE56312F97991B228583A5E.tmp' to '../../../../../../Users/ivmount/Documents/GitHub/LaBergeC_MountI/FinalProject/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2023.04.25-19.10.13:859][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 233 ms (total: 1.92 sec)
+[2023.04.25-19.10.13:871][684]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.25-19.10.13:871][684]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/better_room_2.better_room_2
+[2023.04.25-19.10.13:871][684]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/displaymini2.displaymini2
+[2023.04.25-19.10.13:871][684]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/displaymini1.displaymini1
+[2023.04.25-19.10.13:872][684]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2023.04.25-19.10.13:872][684]LogContentValidation: Display: Validating /Script/Engine.Material /Game/UI/mm3.mm3
+[2023.04.25-19.10.13:872][684]LogContentValidation: Display: Validating /Script/Engine.Material /Game/UI/mm2.mm2
+[2023.04.25-19.10.13:872][684]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/room_3.room_3
+[2023.04.25-19.10.13:872][684]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Cube_Blueprint.Cube_Blueprint
+[2023.04.25-19.10.13:872][684]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/displaymini.displaymini
+[2023.04.25-19.10.13:872][684]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/displayerforminimap.displayerforminimap
+[2023.04.25-19.10.13:872][684]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/playerHud.playerHud
+[2023.04.25-19.10.13:881][685]LogAutomationController: Ignoring very large delta of 2.06 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
