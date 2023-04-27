@@ -1,0 +1,25 @@
+Proposal to Final Product:
+
+After a reset over Christmas break, we pivoted our project to capture object manipulation and blueprint interaction. This allowed us to display an understanding of baseline knowledge in Unreal Engine 5, and virtual reality design. While we preserved the intent of our original proposal and basic gameplay framework, we redesigned the game to focus instead on important features and focus less on graphics. Other notable differences include the re-implementation of gravity to reduce VR sickness and the addition of a few HUDs.
+
+We met weekly as a group and spent several hours a week on programing whichever feature was next on our list, utilizing github desktop to synchronize our progress. We began with the basic level design and implementation of the object grabbing and manipulation. We then added the teleportation features and the reduction of VR sickness. From here we added features to detect collisions. After eliminating bugs from the proper collision detection, we added various UIs, rooms, minimaps, and features to expand on the basic engine of the game we had designed.
+
+Grading Criteria:
+
+The extra 40 points we would like to be evaluated on are split into three main categories, based on what was particularly difficult for us to design or implement. The main source of effort was the collision detection of the grabable cubes, which tracks when they are destroyed, wins the game, and utilized UE5 game logic to not have the cubes interact with any unnecessary objects, only the detectors. The second grading criteria is the logic for the game win and event tick under the VR pawn. This controls all the teleportation, player manipulation, and the game win checks and central difficulty scaling variables. The last grading criteria is the selective implementation of the various UIs, which is also displayed through the VR pawn but designed to provide specific implementations in certain circumstances such as a game pause or game failure, with various buttons that do specific tasks. This is more of an additional meta game feature that was added and does not directly impact gameplay, so is something we wished to show off.
+
+Division of Tasks:
+
+Tasks were divided between the two team members based on ability and understanding, and this cultivated our understanding of the final product. While both team members did involve themselves with the development of the entire project, as nearly all progress was made during collaborative group meetings, a few things were worked on extensively by certain members. Chris LaBerge’s focus was mostly VR implementation, and Isaac Mount’s contributions were mostly logic and UI.
+
+Chris LaBerge’s contributions within VR implementation include many different domains and forms of interaction. Working from scratch, many different interaction features were implemented. Most notable were the object manipulation utilizing the controllers in VR and the teleportation system that can be simultaneously employed. Other features prominently developed by Chris were the design of the VR world and the minimization of motion sickness by re-implementing gravity and reducing Y-value changes.
+
+Isaac Mount’s contributions to the project were focused on the logic and gameplay implementation. These actions focused on most of the HUDs and the logic governing events such as managing game failure when time runs out, triggering game success, functionality of each of the menu buttons, etc. The minimap also is part of this category, which teleports players between the various levels of the game. The minimap preserves player rotation and displays a view of the room from above, following the player throughout their rooms and adapting appropriately.
+
+Extra for Special HW2:
+
+As this was a special HW2, many expanded gameplay features were planned and implemented. The three big additions are the minimap, the level scaling, and the multiple rooms. All are related and intertwined to create a cohesive and well-designed experience.
+
+To increase the size of the play area, we added two additional rooms with additional targets and objects to be sorted. This tripled the play area. To manage interaction with these other rooms we added the minimap to manage player interaction. For level scaling, the time remaining, access to rooms or teleportation time, and target goals are all modified to make the game more difficult.
+
+The implementation of the various game screens is of note as well, as instead of simply quitting the game when done, we have a pause screen, a game win screen, a game over screen, and a player menu which all have various buttons and graphics to streamline gameplay and level design.
