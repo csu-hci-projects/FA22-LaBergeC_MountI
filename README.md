@@ -21,3 +21,9 @@ Doubled HW2
 
 # Conclusion
 Please contact us with any questions, we have arranged a meeting with professor Ortega to discuss the scale and scope of this homework assignment. Other than what was discussed above, we have nothing additional to state at this time.
+
+# Gameplay
+
+Upon entering a level, you will spawn on the floor in a room and notice a countdown timer on the wall with a tracker for destroyed targets. If the timer hits zero before you succesfully destroy all objects you will fail and the game will give you the option to either restart or quit. If you succeed you will have won the game and can either quit, restart, or, if other levels are configured (which is not present in the current release), continue to the next, more difficult level.
+
+To interact with the world, utilize the VR controllers. The right controller joystick manages teleportation. The right controller trigger manages object manipulation (for targets only, other objects can not be manipulated). The left controller opens the pause menu. The minimap (which is not directly visible in some VR implimentations) displays your current location and orientation with buttons to teleport to adjacent rooms, selecting these will teleport you to other rooms in the level.
