@@ -23,3 +23,7 @@ As this was a special HW2, many expanded gameplay features were planned and impl
 To increase the size of the play area, we added two additional rooms with additional targets and objects to be sorted. This tripled the play area. To manage interaction with these other rooms we added the minimap to manage player interaction. For level scaling, the time remaining, access to rooms or teleportation time, and target goals are all modified to make the game more difficult.
 
 The implementation of the various game screens is of note as well, as instead of simply quitting the game when done, we have a pause screen, a game win screen, a game over screen, and a player menu which all have various buttons and graphics to streamline gameplay and level design.
+
+Demonstration: https://youtu.be/D4ZPqRLKtOM
+
+Code explanation: https://youtu.be/_9RPCxrGwZI
